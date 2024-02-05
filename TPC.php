@@ -85,15 +85,6 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	<!-- <div class="spacer"></div>
 
 	<div class="organizer-track-title">Track 2: Blockchain for Real-World Applications</div>-->
-
-	<div class="flex flex-auto person-container">
-		<div class="pic headshot round" style="background:url(images/tracks/JieLi.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Jie Li</div>
-			<div class="role bold">IEEE Fellow</div>
-			<div class="affiliation">Shanghai Jiao Tong University</div>
-		</div>
-	</div>
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/tracks/AshishKundu.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -102,6 +93,15 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			<div class="affiliation">Cisco</div>
 		</div>
 	</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/tracks/JieLi.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Jie Li</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">Shanghai Jiao Tong University</div>
+		</div>
+	</div>
+	
 	<!-- <div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/tracks/JiangXiao.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -131,6 +131,15 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		</div>
 	</div>
 	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/tracks/ZhiqiangLin.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Zhiqiang Lin</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">The Ohio State University</div>
+		</div>
+	</div>
+
+	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/tracks/QianWang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Qian Wang</div>
@@ -147,18 +156,18 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		</div>
 	</div> -->
 
-	<div class="flex flex-auto person-container">
-		<div class="pic headshot round" style="background:url(images/tracks/ZhiqiangLin.png);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Zhiqiang Lin</div>
-			<div class="role bold">IEEE Fellow</div>
-			<div class="affiliation">The Ohio State University</div>
-		</div>
-	</div>
-
+	
 	<!-- <div class="spacer"></div>
 	<div class="organizer-track-title">Track 4: Communications Network Infrastructures & DePIN</div>-->
-
+		
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/tracks/MauroConti.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Mauro Conti</div>
+			<div class="role bold">IEEE Fellow, EiC of IEEE TIFS</div>
+			<div class="affiliation">University of Padua</div>
+		</div>
+	</div>
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/tracks/SchahramDustdar.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -176,15 +185,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			<div class="affiliation">Hong Kong University of Science and Technology</div>
 		</div>
 	</div>
-	
-	<div class="flex flex-auto person-container">
-		<div class="pic headshot round" style="background:url(images/tracks/MauroConti.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Mauro Conti</div>
-			<div class="role bold">IEEE Fellow, EiC of IEEE TIFS</div>
-			<div class="affiliation">University of Padua</div>
-		</div>
-	</div>
+
 
 	<!-- <div class="spacer"></div>
 	<div class="organizer-track-title">Track 5: Integration of Blockchain, Data Elements & AI</div> -->
