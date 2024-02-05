@@ -224,7 +224,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	</div> -->
 	
 	<div class="flex flex-auto person-container">
-		<div class="pic headshot round" style="background:url(images/tracks/LinWilliamCong.png);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/tracks/LinWilliamCong.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Lin William Cong</div>
 			<div class="role bold"></div>
