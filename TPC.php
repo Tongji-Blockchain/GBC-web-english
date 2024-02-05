@@ -185,7 +185,15 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			<div class="affiliation">Hong Kong University of Science and Technology</div>
 		</div>
 	</div>
-
+	
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/tracks/MauroConti.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Mauro Conti</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">University of Padua</div>
+		</div>
+	</div>
 
 	<!-- <div class="spacer"></div>
 	<div class="organizer-track-title">Track 5: Integration of Blockchain, Data Elements & AI</div> -->
