@@ -6,11 +6,11 @@
 }
 
 .person-container{
-	width: 100%;
+	width: 150%;
 	height: 100px;
 	margin-left: 2%;
-	margin-top: 15%;
-	margin-bottom: 15%;
+	margin-top: 0%;
+	margin-bottom: 10%;
 }
 
 .person-container .name{

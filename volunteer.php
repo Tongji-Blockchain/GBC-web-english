@@ -10,7 +10,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
     <!-- 左侧部分：人物介绍 -->
     <div style="flex: 3;">
 		<div class="flex flex-auto person-container">
-			<div class="pic headshot round" style="background:url(images/organizers/.png);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Rui Wang</div>
 				<div class="role bold">Volunteer Chair</div>
