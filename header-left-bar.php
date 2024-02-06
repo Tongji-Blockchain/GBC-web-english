@@ -32,6 +32,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 		    background-image: url(<?php echo $json['header']['bannerImage'];?>); 
 		    background-position: right <?php echo $json['header']['bannerRightPlacement'];?> top <?php echo $json['header']['bannerTopPlacement'];?> ;
 		}
+		
 	</style>
 
 	<script>
@@ -114,7 +115,8 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 				<div style="margin-top:1%;width:220px;height:85px;background:url(images/logo/SERCBAAS-Blue.png) no-repeat"></div>
 			</div>
 		</div>
-		<div id="content-container" class="flex flex-auto flex-space-between">
+		
+	<div id="content-container" class="flex flex-auto flex-space-between">
 			<div id=left-bar-container class="flex flex-auto col-2">
 				<ul class="left-bar list-reset" style="">
 					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home" aria-hidden="true"></i>HOME</a></li>
@@ -137,7 +139,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 					<li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>PATRONS</a></li>
 				</ul>
-			</div>
+			</div> 
 			<div id="center-content" class="flex flex-auto flex-column col-7">
 				<div class="flex">
 					<div style="height:80px;background:#191970;color:white;width: 100%">

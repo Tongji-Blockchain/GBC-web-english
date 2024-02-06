@@ -72,12 +72,12 @@
 			"title":"conference",
 			"links":[
 				{
-					"name": "program",
+					"name": "Program",
 					"link": "technical-program.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "events",
+					"name": "Events",
 					"link": "events.php",
 					"openInNewWindow": false
 				}
@@ -87,7 +87,7 @@
 			"title":"destination",
 			"links":[
 				{
-					"name": "hotel",
+					"name": "Hotel",
 					"link": "hotel.php",
 					"openInNewWindow": false
 				},
@@ -147,17 +147,17 @@
 					"openInNewWindow": false
 				},
 				{
-					"name": "organizers",
+					"name": "Organizers",
 					"link": "organizers.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "events",
+					"name": "Events",
 					"link": "events.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "registration",
+					"name": "Registration",
 					"link": "registration.php",
 					"openInNewWindow": false
 				}

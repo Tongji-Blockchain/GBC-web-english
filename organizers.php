@@ -129,7 +129,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	<div class="organizer-group-title">PUB Co-Chair</div>
 	
 	<div class="flex flex-auto person-container">
-		<div class="pic headshot round" style="background:url(images/organizers/HaiJin.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/Haijin.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Hai Jin</div>
 			<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
