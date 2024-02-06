@@ -124,7 +124,34 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		</div>
 	</div>
 	
+	<div class="spacer"></div>
 
+	<div class="organizer-group-title">PUB Co-Chair</div>
+	
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/HaiJin.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Hai Jin</div>
+			<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+			<div class="affiliation">Huazhong University of Science and Technology</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Haibin Kan</div>
+			<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+			<div class="affiliation">Fudan University</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Zhihong Tian</div>
+			<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+			<div class="affiliation">Guangzhou University</div>
+		</div>
+	</div>
 	<!-- <div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/.png);background-size:100px 100px;"></div>
 		<div class="info-container">
