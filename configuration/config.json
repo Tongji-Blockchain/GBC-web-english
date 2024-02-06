@@ -27,7 +27,7 @@
 			"showInNavBar": true
 		},
 		{
-			"title":"Paper Submission Opens (<a target='_blank' href=''>link</a>)",
+			"title":"Paper Submission Opens (<a target='_blank' href='https://edas.info/newPaper.php?c=32098'>link</a>)",
 			"date": "1 Feb, 2024",
 			"showInNavBar": true
 		},
@@ -72,12 +72,22 @@
 			"title":"conference",
 			"links":[
 				{
-					"name": "program",
+					"name": "Program",
 					"link": "technical-program.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "events",
+					"name": "Committees",
+					"link": "organizers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "About",
+					"link": "about.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Events",
 					"link": "events.php",
 					"openInNewWindow": false
 				}
@@ -87,7 +97,7 @@
 			"title":"destination",
 			"links":[
 				{
-					"name": "hotel",
+					"name": "Hotel",
 					"link": "hotel.php",
 					"openInNewWindow": false
 				},
@@ -112,13 +122,13 @@
 			"title":"author links",
 			"links":[
 				{
-					"name": "",
-					"link": "",
+					"name": "Authors",
+					"link": "authors.php",
 					"openInNewWindow": true
 				},
 				{
-					"name": "",
-					"link": "",
+					"name": "Registration",
+					"link": "registration.php",
 					"openInNewWindow": true
 				},
 				{
@@ -147,18 +157,18 @@
 					"openInNewWindow": false
 				},
 				{
-					"name": "organizers",
+					"name": "Committees",
 					"link": "organizers.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "events",
-					"link": "events.php",
+					"name": "About",
+					"link": "about.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "registration",
-					"link": "registration.php",
+					"name": "Authors",
+					"link": "authors.php",
 					"openInNewWindow": false
 				}
 			]
@@ -166,24 +176,9 @@
 	},
 	"newsTicker":[
 		{
-			"content":"Stay tuned!",
-			"link":"",
-			"openInNewWindow": false
-		},
-		{
-			"content":"Stay tuned!",
-			"link":"",
-			"openInNewWindow": false
-		},
-		{
-			"content":"Stay tuned!",
-			"link":"",
-			"openInNewWindow": false
-		},
-		{
-			"content":"Stay tuned!",
-			"link":"",
-			"openInNewWindow": false
-		}		
+			"content":"Submissions now open",
+			"link":"https://edas.info/newPaper.php?c=32098",
+			"openInNewWindow": true
+		}
 	]
 }
