@@ -1,13 +1,10 @@
 <?php 
-$pageTitle='Operations Committee'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='Volunteer'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
-
-
 <div style="margin-top:0%; margin-bottom: 5%" class="flex-column">
-
 
 	<button style="font-size: small" onclick="location.href='organizers.php';">Organizing Committee</button>
 	<button style="font-size: small" onclick="location.href='TPC.php';">Technical Program Committee</button>
@@ -19,7 +16,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 	<div class="spacer"></div>
 
-Stay tuned
+	Stay tuned
 
 </div>
 

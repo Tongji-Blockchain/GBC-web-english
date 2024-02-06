@@ -104,7 +104,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<p style="padding:0;margin:0;font-size:smaller">
 						<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
 						<span id="news-ticker-content">
-							<a id="news-ticker-link" href="#">Paper submission Stay tuned!</a>
+							<a id="news-ticker-link" href="https://edas.info/newPaper.php?c=32098">Paper submissions now open</a>
 						</span>
 					</p>
 				</div>

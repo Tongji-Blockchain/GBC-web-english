@@ -25,7 +25,7 @@
 							} 
 
 	 					?>
-	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="">Stay tuned!</a></li>
+	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="https://edas.info/newPaper.php?c=32098">Submissions now open</a></li>
 					</ul>
 				</div>
 				

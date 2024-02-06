@@ -4,7 +4,17 @@ $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
-<div style="margin-top:5%; margin-bottom: 5%" class="flex-column">
+<div style="margin-top:0%; margin-bottom: 5%" class="flex-column">
+
+	<button style="font-size: small" onclick="location.href='organizers.php';">Organizing Committee</button>
+	<button style="font-size: small" onclick="location.href='TPC.php';">Technical Program Committee</button>
+	<button style="font-size: small" onclick="location.href='operationC.php';">Operations Committee</button>
+	<br/><br/>
+	<button style="font-size: small" onclick="location.href='IFEC.php';">Industry Forums & Exhibition Committee</button>
+	<button style="font-size: small" onclick="location.href='advisoryC.php';">Advisory Committee</button>
+	<button style="font-size: small" onclick="location.href='volunteer.php';">Volunteer</button>
+
+	<div class="spacer"></div>
 
 	<div class="organizer-group-title">TPC Co-Chair</div>
 
@@ -52,6 +62,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			<div class="affiliation">The University of Glasgow</div>
 		</div>
 	</div>
+
 	<div class="spacer"></div>
 
 	 <div class="organizer-group-title">Track Co-Chair</div>
@@ -265,52 +276,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 	<div class="spacer"></div>
 	<h2>Stay tuned for more updates, the assignment of track co-chairs may be modified according to the overall conference planning.</h2>
-	<div class="spacer"></div>
-
-	<div class="text">
-
-		<div style="">
-			<a style="color:blue;font-size: 20px" href="organizers.php">
-				<div style="padding-top:6%;float:left">
-					Organizing Committee
-				</div>
-			</a>
-		</div> 
-
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="TPC.php">
-				<div style="padding-top:6%;float:left">
-					Technical Program Committee
-				</div>
-			</a>
-		</div>
-
-
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="IFEC.php">
-				<div style="padding-top:6%;float:left">
-					Industry Forums & Exhibition Committee
-				</div>
-			</a>
-		</div>
-
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="operationC.php">
-				<div style="padding-top:6%;float:left">
-					Operations Committee
-				</div>
-			</a>
-		</div>
-
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="advisoryC.php">
-				<div style="padding-top:6%;float:left">
-					Advisory Committee
-				</div>
-			</a>
-		</div>
-
-	</div>
+	
 	
 </div>
 
