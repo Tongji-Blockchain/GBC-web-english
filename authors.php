@@ -44,7 +44,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			Blockchain Empowerment of Data Elements, Machine Learning, Deep Learning, Federated Learning, Large Language Models, Confidential Computing, AI Security, AI Entities, AI Autonomous Agents, AI Ethics, Generative AI, and Interdisciplinary Researches.
 			
 			<br><br><li style="font-weight: bold">Blockchain for Web3.0 & Metaverse Ecosystems</li>
-			Metaverse, Smart Contracts, NFTs, RWA Tokenization, Incentive Mechanisms, Privacy-Preserving, Distributed Identity, Digital Assets, dApps, DeFi, Ordinals, Payment Channels, Decentralized Finance, Verifiable Credentials, Zero-Knowledge Proofs, Industrial Web 3.0, Trust Management, Digital Governance, Blockchain Policy-Making, GDPR, & Social Impacts.
+			Metaverse, Smart Contracts, NFTs, RWA Tokenization, Incentive Mechanisms, Privacy Preservation, Distributed Identity, Digital Assets, dApps, DeFi, Ordinals, Payment Channels, Decentralized Finance, Verifiable Credentials, Zero-Knowledge Proofs, Industrial Web 3.0, Trust Management, Digital Governance, Blockchain Policy-Making, GDPR and Social Impacts.
 		</ul>
 		<br><br>
 
