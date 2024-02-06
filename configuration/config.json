@@ -77,6 +77,7 @@
 					"openInNewWindow": false
 				},
 				{
+					"name": "Events",
 					"name": "Committees",
 					"link": "organizers.php",
 					"openInNewWindow": false
@@ -157,18 +158,18 @@
 					"openInNewWindow": false
 				},
 				{
-					"name": "Committees",
+					"name": "Organizers",
 					"link": "organizers.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "About",
-					"link": "about.php",
+					"name": "Events",
+					"link": "events.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "Authors",
-					"link": "authors.php",
+					"name": "Registration",
+					"link": "registration.php",
 					"openInNewWindow": false
 				}
 			]
