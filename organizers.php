@@ -14,7 +14,7 @@ function Nav() {
 }
 </script>
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
-	<div style="flex: 3;">
+	<div style="flex: 5;">
 		
 
 		<div class="flex flex-auto person-container">

@@ -16,7 +16,7 @@ function Nav() {
 
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
     <!-- 左侧部分：人物介绍 -->
-    <div style="flex: 3;">
+    <div style="flex: 5;">
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
