@@ -4,7 +4,16 @@ $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
-
+<script>
+function Nav() {
+    var nav = document.getElementById("navContainer");
+    if (nav.style.height === "500px") {  // 调整此值以适应您的导航栏高度
+        nav.style.height = "0";
+    } else {
+        nav.style.height = "500px";  // 调整此值以适应您的导航栏高度
+    }
+}
+</script>
 
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
 
@@ -13,49 +22,17 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 	</div>
 
-	<div style="flex: 1; padding-left: 10px; text-align: left;">
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="advisoryC.php">
-				<div style="padding-top:0%;float:left">
-					Advisory Committee
-				</div>
-			</a>
-		</div>
-		<div style="">
-			<a style="color:blue;font-size: 20px" href="organizers.php">
-				<div style="padding-top:10%;float:left">
-					Organizing Committee
-				</div>
-			</a>
-		</div> 
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="TPC.php">
-				<div style="padding-top:10%;float:left">
-					Technical Program Committee
-				</div>
-			</a>
-		</div>
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="IFEC.php">
-				<div style="padding-top:10%;float:left">
-					Industry Forums & Exhibition Committee
-				</div>
-			</a>
-		</div>
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="operationC.php">
-				<div style="padding-top:10%;float:left">
-					Operations Committee
-				</div>
-			</a>
-		</div>
-		<div style="clear: both;margin-top:20px">
-			<a style="color:blue;font-size: 20px;" href="volunteer.php">
-				<div style="padding-top:10%;float:left">
-					Volunteer
-				</div>
-			</a>
-		</div>
+    <div style="flex: 1;padding-left: 10px; text-align: left;">
+        <button class="small-button" onclick="Nav()">Committees</button><br/>
+        <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
+            <a href="advisoryC.php">Advisory Committee</a>
+            <a href="organizers.php">Organizing Committee</a>
+            <a href="TPC.php">Technical Program Committee</a>
+            <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
+            <a href="operationC.php">Operations Committee</a>
+            <a href="volunteer.php">Volunteer</a>
+            
+        </div>
     </div>
 
 

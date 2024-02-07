@@ -59,3 +59,20 @@
 	width: 100%;
 	height: 30px;
 }
+
+#navContainer {
+    transition: height 0.5s;
+}
+
+#navContainer a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+}
+
+#navContainer a:hover {
+    color: #4512d2;
+}
