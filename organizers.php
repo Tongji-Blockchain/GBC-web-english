@@ -14,19 +14,7 @@ function Nav() {
 }
 </script>
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
-	
-	<!-- <div style="flex: 1;text-align: left;">
-        <button class="small-button" onclick="Nav()">Committees</button><br/>
-        <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
-            <a href="advisoryC.php">Advisory Committee</a>
-            <a href="organizers.php">Organizing Committee</a>
-            <a href="TPC.php">Technical Program Committee</a>
-            <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
-            <a href="operationC.php">Operations Committee</a>
-            <a href="volunteer.php">Volunteer</a>
-            
-        </div>
-    </div> -->
+
 
 	<div style="flex: 5;">
 
