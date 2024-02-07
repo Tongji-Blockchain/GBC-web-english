@@ -119,27 +119,28 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 	<div id="content-container" class="flex flex-auto flex-space-between">
 			<div id=left-bar-container class="flex flex-auto col-2">
 				<ul class="left-bar list-reset" style="">
-					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home" aria-hidden="true"></i>HOME</a></li>
+		
+					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home fa-fw" aria-hidden="true"></i>HOME</a></li>
 
-					<li name="about"><a href="about.php"><i class="fa fa-lg fa-info" aria-hidden="true"></i>ABOUT</a></li>
+					<li name="about"><a href="about.php"><i class="fa fa-lg fa-info fa-fw" aria-hidden="true"></i>ABOUT</a></li>
 
-					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users" aria-hidden="true"></i>COMMITTEES</a></li>
+					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users fa-fw" aria-hidden="true"></i>COMMITTEES</a></li>
 
-					<li name="home"><a href="keynote.php"><i class="fa fa-lg fa-microphone" aria-hidden="true"></i>KEYNOTES</a></li>
+					<li name="home"><a href="keynote.php"><i class="fa fa-lg fa-microphone fa-fw" aria-hidden="true"></i>KEYNOTES</a></li>
 
-					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i>AUTHORS</a></li>
+					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o fa-fw" aria-hidden="true"></i>AUTHORS</a></li>
 
-					<li name="hotel"><a href="technical-program.php"><i class="fa fa-lg fa-tasks" aria-hidden="true"></i>PROGRAM</a></li>
+					<li name="hotel"><a href="technical-program.php"><i class="fa fa-lg fa-tasks fa-fw" aria-hidden="true"></i>PROGRAM</a></li>
 
-					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>REGISTRATION</a></li>
+					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in fa-fw" aria-hidden="true"></i>REGISTRATION</a></li>
 
-					<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed" aria-hidden="true"></i>VENUE/HOTEL</a></li>
+					<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed fa-fw" aria-hidden="true"></i>VENUE/HOTEL</a></li>
 
-					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>EVENTS</a></li>
+					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar fa-fw" aria-hidden="true"></i>EVENTS</a></li>
 
-					<li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>PATRONS</a></li>
+					<li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-globe fa-fw" aria-hidden="true"></i>PATRONS</a></li>
 				</ul>
-			</div> 
+			</div>
 			<div id="center-content" class="flex flex-auto flex-column col-7">
 				<div class="flex">
 					<div style="height:80px;background:#191970;color:white;width: 100%">
