@@ -182,13 +182,39 @@ function Nav() {
 				<div class="affiliation">Guangzhou University</div>
 			</div>
 		</div>
-
+		<div class="organizer-group-title">Workshop Chair</div>
+		<div class="flex flex-auto person-container">
+			<div class="pic headshot round" style="background:url(images/organizers/JiahengWang.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Jiaheng Wang</div>
+				<div class="affiliation">Dongnan University</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container">
+			<div class="pic headshot round" style="background:url(images/organizers/ShengliZhang.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Shengli Zhang</div>
+				<div class="affiliation">Shenzhen University</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container">
+			<div class="pic headshot round" style="background:url(images/organizers/HamedAhmadi.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Hamed Ahmadi</div>
+				<div class="affiliation">University of York</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container">
+			<div class="pic headshot round" style="background:url(images/organizers/ButianHuang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Butian Huang</div>
+				<div class="affiliation">Yunphant</div>
+			</div>
+		</div>
 	</div>
-
-
-
-
-
 </div>
-
+<!--Workshop Chair 1  Jiaheng Wang 东南大学 
+Workshop Chair 2  Shengli Zhang 深圳大学 
+Workshop Chair 3  Hamed Ahmadi 约克大学 
+Workshop Chair 4 黄步添 Butian Huang 云象网络 -->
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>

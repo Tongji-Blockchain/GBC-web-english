@@ -84,6 +84,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 	?>
 </head>
 <body>
+	
 	<div class="flex-column main-container">
 		<div id="header" class="flex flex-columm flex-auto">
 			<div class="flex-auto" style="width: 85%">
@@ -119,7 +120,12 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 	<div id="content-container" class="flex flex-auto flex-space-between">
 			<div id=left-bar-container class="flex flex-auto col-2">
 				<ul class="left-bar list-reset" style="">
-		
+
+	
+					<div class="close-header"><a href="#" style=""><i class="fa fa-2x fa-arrow-circle-left" aria-hidden="true"></i></a></div>
+				
+				
+				
 					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home fa-fw" aria-hidden="true"></i>HOME</a></li>
 
 					<li name="about"><a href="about.php"><i class="fa fa-lg fa-info fa-fw" aria-hidden="true"></i>ABOUT</a></li>
