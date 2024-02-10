@@ -213,8 +213,4 @@ function Nav() {
 		</div>
 	</div>
 </div>
-<!--Workshop Chair 1  Jiaheng Wang 东南大学 
-Workshop Chair 2  Shengli Zhang 深圳大学 
-Workshop Chair 3  Hamed Ahmadi 约克大学 
-Workshop Chair 4 黄步添 Butian Huang 云象网络 -->
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>
