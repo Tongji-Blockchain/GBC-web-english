@@ -217,7 +217,7 @@ function Nav() {
 		<div class="info-container">
 			<div class="name">Lin William Cong</div>
 			<div class="role bold"></div>
-			<div class="affiliation">Cornell University</div>
+			<div class="affiliation">Cornell University(NBER and IC3)</div>
 		</div>
 	</div>
 	<div class="flex flex-auto person-container">
