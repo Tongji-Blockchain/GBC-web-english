@@ -23,22 +23,22 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<h1>TECHNICAL TRACKS</h1>
 
 		<ul>
-			<li style="font-weight: bold">Blockchain Consensus, Performance & Scalability</li>
+			<li style="font-weight: bold">Track 1: Blockchain Consensus, Performance & Scalability</li>
 			Consensus Mechanisms, Game Theory, Sharding, Peer-to-Peer Networks, Distributed Databases, Cross-Chain Mechanisms, Formal Verifications, On-Chip Acceleration, and other System Aspects of Blockchain Technology.
 			
-			<br><br><li style="font-weight: bold">Blockchain for Real-World Applications</li>
+			<br><br><li style="font-weight: bold">Track 2: Blockchain for Real-World Applications</li>
 			Central Bank Digital Currency & Electronic Payment, Trusted Data Elements Circulation, Policy-making, Geo-Network Navigation, Digital City Planning, Smart Agriculture, Blockchain Spacetime, and other Innovative Uses.
 			
-			<br><br><li style="font-weight: bold">Security for Blockchain, Blockchain for Security</li>
+			<br><br><li style="font-weight: bold">Track 3: Security for Blockchain, Blockchain for Security</li>
 			Hardcore Security for Future Blockchain and Blockchain for Future Security, e.g., Multi-Party Computation, Post-Quantum Public Key Algorithms, zk-SNARK, Private Set Intersection, Smart Contract Security, Consensus Security, Network Security, and dApps Security.
 			
-			<br><br><li style="font-weight: bold">Communications Network Infrastructures & DePIN</li>
+			<br><br><li style="font-weight: bold">Track 4: Communications Network Infrastructures & DePIN</li>
 			Decentralized Physical Infrastructure Networks, Cloud/Edge Computing, Computing Force Network, 6G/F6G, Wireless Communications, DeWi, Internet Architecture, Internet of Things, Infrastructure Security, O-RAN and Cyber-Physical Systems.
 			
-			<br><br><li style="font-weight: bold">Integration of Blockchain, Data Elements & AI</li>
+			<br><br><li style="font-weight: bold">Track 5: Integration of Blockchain, Data Elements & AI</li>
 			Blockchain Empowerment of Data Elements, Machine Learning, Deep Learning, Federated Learning, Large Language Models, Confidential Computing, AI Security, AI Entities, AI Autonomous Agents, AI Ethics, Generative AI, and Interdisciplinary Researches.
 			
-			<br><br><li style="font-weight: bold">Blockchain for Web3.0 & Metaverse Ecosystems</li>
+			<br><br><li style="font-weight: bold">Track 6: Blockchain for Web3.0 & Metaverse Ecosystems</li>
 			Metaverse, Smart Contracts, NFTs, RWA Tokenization, Incentive Mechanisms, Privacy Preservation, Distributed Identity, Digital Assets, dApps, DeFi, Ordinals, Payment Channels, Decentralized Finance, Verifiable Credentials, Zero-Knowledge Proofs, Industrial Web 3.0, Trust Management, Digital Governance, Blockchain Policy-Making, GDPR and Social Impacts.
 		</ul>
 		<br><br>
