@@ -16,6 +16,7 @@ function Nav() {
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
 <div style="flex: 5;">
 
+
 <button class="small-button" onclick="Nav()">Committees</button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Committee</a>
