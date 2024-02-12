@@ -19,7 +19,7 @@ function Nav() {
 
 	<div style="flex: 5;">
 
-    <button class="small-button" onclick="Nav()">Committees</button><br/>
+    <button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Committee</a>
             <a href="organizers.php">Organizing Committee</a>
