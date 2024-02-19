@@ -7,10 +7,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "500px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "500px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>

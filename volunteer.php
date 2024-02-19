@@ -6,16 +6,16 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "500px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "500px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
 
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
-    <!-- 左侧部分：人物介绍 -->
+
     <div style="flex: 5;">
     
     <button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
@@ -36,6 +36,7 @@ function Nav() {
 			<div class="affiliation">Tongji University</div>
 		</div>
 	</div>
+    
     </div>
 
     

@@ -6,10 +6,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -25,7 +25,7 @@ function Nav() {
             <a href="organizers.php">Organizing Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
-            <a href="operationC.php">Operations Committee</a>
+            <a href="operationC.php">Operations Committee</a>	
             <a href="volunteer.php">Volunteer</a>
         </div><br/>
 
@@ -210,6 +210,17 @@ function Nav() {
 			<div class="info-container">
 				<div class="name">Butian Huang</div>
 				<div class="affiliation">Yunphant</div>
+			</div>
+		</div>
+
+		<div class="organizer-group-title">Tutorial Chair</div>
+		
+		<div class="flex flex-auto person-container">
+			<div class="pic headshot round" style="background:url(images/organizers/YanZhang.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Yan Zhang</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">University of OSLO</div>
 			</div>
 		</div>
 	</div>

@@ -6,10 +6,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "500px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "500px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -104,6 +104,14 @@ function Nav() {
 			<div class="affiliation">University of Calabria</div>
 		</div>
 	</div> 
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/tracks/LiehuangZhu.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Liehuang Zhu</div>
+			<div class="role bold"></div>
+			<div class="affiliation">Beijing Institute of Technology</div>
+		</div>
+	</div> 
     <div class="spacer"></div>
 
 	<div class="organizer-track-title">Track 2: Blockchain for Real-World Applications</div>
@@ -123,7 +131,14 @@ function Nav() {
 			<div class="affiliation">Shanghai Jiao Tong University</div>
 		</div>
 	</div>
-	
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/tracks/KeqiuLi.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Keqiu Li</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">Tianjin University</div>
+		</div>
+	</div>
 	 <div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/tracks/JiangXiao.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
