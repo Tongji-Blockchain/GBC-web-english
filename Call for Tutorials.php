@@ -23,7 +23,7 @@ function Nav() {
             <div class="spacer" style="height: 20px;"></div> <!-- 使用百分比单位 -->
             <a href="Call for Tutorials.php" style="margin-left: 2%;">Call for Tutorials</a> <!-- 使用百分比单位 -->
             <div class="spacer" style="height: 20px;"></div> <!-- 使用百分比单位 -->
-            <a href="Workshops.php" style="margin-left: 2%;">Workshops</a> <!-- 使用百分比单位 -->
+            <a href="Workshops.php" style="margin-left: 2%;">workshop chairs</a> <!-- 使用百分比单位 -->
         </div>
     </div>
 </div>
@@ -31,10 +31,6 @@ function Nav() {
 
 <div class="flex flex-auto" style="padding-top: 1%">
 	<div style="margin-bottom: 1%;">
-	
-		<button style="font-size: larger" onclick="location.href='resources/CFP-Poster-EN.pdf';">DOWNLOAD CALL FOR TUTORIAL PROPOSALS</button><button style="font-size: larger" onclick="location.href='https://edas.info/newPaper.php?c=32098';">Submit Now</button><br><br>
-
-
 		<h1>RECOMMENDED OUTLINE OF PROPOSALS</h1>
         For the tutorial, we will need a proposal not exceeding 4 pages. The proposal should concisely describe the content and objectives of the tutorial, and 
 must include:
@@ -51,10 +47,11 @@ must include:
 			
 		</ul>
         <h1>HOW TO SUBMIT PROPOSALS</h1>
-        
-All tutorial proposals should be submitted via EDAS no later than 04 October 2023 Extended to 18 October 2023.
-
-Notification of Selection: 18 December 2023 Extended to 08 January 2024
+        Notification of Selection: 1 February  2024, with the deadline extended to 28 March 2024. Additionally, please ensure that the subject of your email contains 'IEEE GBC 2024 Tutorial Proposal'.
+        <br><br>
+        All tutorial proposals should be submitted to Prof. Yan Zhang via email.
+        <class style="font-weight: bold"> (yanzhang@ifi.uio.no)</class>
+       
 		<br><br>
 
 	</div>

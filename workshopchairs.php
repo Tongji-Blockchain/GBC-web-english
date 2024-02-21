@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Workshops'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='workshop chairs'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/authors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -23,7 +23,7 @@ function Nav() {
             <div class="spacer" style="height: 20px;"></div> <!-- 使用百分比单位 -->
             <a href="Call for Tutorials.php" style="margin-left: 2%;">Call for Tutorials</a> <!-- 使用百分比单位 -->
             <div class="spacer" style="height: 20px;"></div> <!-- 使用百分比单位 -->
-            <a href="Workshops.php" style="margin-left: 2%;">Workshops</a> <!-- 使用百分比单位 -->
+            <a href="Workshops.php" style="margin-left: 2%;">workshop chairs</a> <!-- 使用百分比单位 -->
         </div>
     </div>
 </div>
