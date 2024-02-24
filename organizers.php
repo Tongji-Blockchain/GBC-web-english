@@ -163,7 +163,7 @@ function Nav() {
 			<div class="pic headshot round" style="background:url(images/organizers/HaiJin.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Hai Jin</div>
-				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="role bold">IEEE Fellow</div>
 				<div class="affiliation">Huazhong University of Science and Technology</div>
 			</div>
 		</div>

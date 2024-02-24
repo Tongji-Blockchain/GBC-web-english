@@ -46,7 +46,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <div class="flex flex-auto" style="padding-top: 1%">
 <div style="margin-bottom: 1%;">
 
-<h2>Welcome to the IEEE Global Blockchain Conference 2024, where we're 'Transforming a Trustworthy Digital Future' with IEEE President, IET President and ACM Vice President. Led by the EiCs of top journals such as IEEE TDSC, IEEE TMC and IEEE Network, the technical program includes six tracks and a variety of tutorials and workshops. IEEE GBC 2024 also features a series of visionary keynotes, panels, and discussions from top minds to shape the future of blockchain.</h2>
+<h2>Welcome to the IEEE Global Blockchain Conference 2024, where we're 'Transforming a Trustworthy Digital Future' with IEEE President, IET President and ACM Vice President. Led by the EiCs of top journals such as IEEE TDSC, IEEE TMC, IEEE TIFS, IEEE Network, the technical program includes six tracks and a variety of tutorials and workshops. IEEE GBC 2024 also features a series of visionary keynotes, panels, and discussions from top minds to shape the future of blockchain.</h2>
 <br/>
 
 
