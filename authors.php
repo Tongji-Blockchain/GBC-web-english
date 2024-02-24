@@ -34,7 +34,7 @@ function Nav() {
 <div class="flex flex-auto" style="padding-top: 1%">
 	<div style="margin-bottom: 1%;">
 	
-		<button style="font-size: larger" onclick="location.href='resources/CFP-Poster-EN.pdf';">Download Call for Papers</button><button style="font-size: larger" onclick="location.href='https://edas.info/newPaper.php?c=32098';">Submit Your Paper Now</button><br><br>
+		<br><br>
 
 		The 2024 IEEE Global Blockchain Conference (GBC) will feature a comprehensive technical program covering the latest research and innovation in blockchain technologies.
 
