@@ -24,6 +24,7 @@ function Nav() {
             <a href="TPC.php">Technical Program Committee</a>
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
             <a href="operationC.php">Operations Committee</a>
+			<a href="TPCmember.php">TPC member</a>
             <a href="volunteer.php">Volunteer</a>
         </div><br/>
 
