@@ -22,6 +22,7 @@ function Nav() {
     <button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Committee</a>
+            <a href="Steering.php">Steering Committee</a>
             <a href="organizers.php">Organizing Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>

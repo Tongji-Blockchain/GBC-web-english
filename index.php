@@ -64,6 +64,6 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	<div class="about-image" style="background: url(images/blockchain/blockchain4.png) 150px 150px"></div>
 	<div class="about-image" style="background: url(images/blockchain/blockchain5.png) 150px 150px"></div>
 </div>	
-
-
+<br><br>
+<div style="font-weight: bold;font-size: 24;color: #191970;">Sponsors</div>
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>

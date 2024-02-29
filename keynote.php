@@ -44,7 +44,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		</p>
 </div>
 
-<div class="organizer-group-title">KeyNote Speaker</div>
+<div class="organizer-group-title">Keynote Speakers</div>
 
 <div class="flex flex-auto person-container">
 	<div class="pic headshot round" style="background:url(images/organizers/thomas.png);background-size:100px 100px;"></div>

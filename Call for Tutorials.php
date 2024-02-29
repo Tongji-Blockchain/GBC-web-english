@@ -34,25 +34,24 @@ function Nav() {
 <div class="flex flex-auto" style="padding-top: 1%">
 	<div style="margin-bottom: 1%;">
 		<h1>RECOMMENDED OUTLINE OF PROPOSALS</h1>
-        For the tutorial, we will need a proposal not exceeding 4 pages. The proposal should concisely describe the content and objectives of the tutorial, and 
-must include:
+        <div style="font-size: 20px;">For the tutorial, we will need a proposal not exceeding 4 pages. The proposal should concisely describe the content and objectives of the tutorial, and must include:</div>
+        
 		<ul>
-			<li style="font-weight: bold">Title of the tutorial</li>
+			<li style="font-weight: bold; font-size: 20px;">Title of the tutorial</li>
 			
-			<li style="font-weight: bold">Abstract, objectives, and motivation</li>
+			<li style="font-weight: bold; font-size: 20px;">Abstract, objectives, and motivation</li>
 			
-			<li style="font-weight: bold">Name, affiliation, and a short biography (maximum 200 words) of each tutorial instructor</li>
+			<li style="font-weight: bold; font-size: 20px;">Name, affiliation, and a short biography (maximum 200 words) of each tutorial instructor</li>
 			
-			<li style="font-weight: bold">A description of the topics that the tutorial will address, emphasizing their timeliness</li>
+			<li style="font-weight: bold; font-size: 20px;">A description of the topics that the tutorial will address, emphasizing their timeliness</li>
 			
-			<li style="font-weight: bold">An outline of the tutorial, including a tentative time schedule</li>
+			<li style="font-weight: bold; font-size: 20px;">An outline of the tutorial, including a tentative time schedule</li>
 			
 		</ul>
         <h1>HOW TO SUBMIT PROPOSALS</h1>
-        Notification of Selection: 1 February  2024, with the deadline extended to 28 March 2024. Additionally, please ensure that the subject of your email contains 'IEEE GBC 2024 Tutorial Proposal'.
-        <br><br>
-        All tutorial proposals should be submitted to Prof. Yan Zhang via email.
-        <class style="font-weight: bold"> (yanzhang@ifi.uio.no)</class>
+        <div style="font-size: 20px;">Submissions open : 1 February  2024, with the deadline extended to 28 March 2024. Additionally, please ensure that the subject of your email contains 'IEEE GBC 2024 Tutorial Proposal'.
+        All tutorial proposals should be submitted to Prof. Yan Zhang (yanzhang@ifi.uio.no) via email.</div>
+        
        
 		<br><br>
 

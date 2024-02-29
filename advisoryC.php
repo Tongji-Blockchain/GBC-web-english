@@ -22,6 +22,7 @@ function Nav() {
 	<button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Committee</a>
+			<a href="Steering.php">Steering Committee</a>
             <a href="organizers.php">Organizing Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
@@ -30,20 +31,19 @@ function Nav() {
             <a href="volunteer.php">Volunteer</a>
         </div><br/>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiqiang Wu</div>
-				<div class="role bold">Advisorary Chair</div>
+				<div class="role bold">Advisorary Board Chair</div>
 				<div class="affiliation"></div>
 			</div>
 		</div>
-
 		<div class="spacer"></div>
 
 		Stay tuned
-
-
+		<i class="fa fa-align-center"></i>
+		<i class="fa-light fa-scribble"></i>
 
 		<!-- <div class="flex flex-auto person-container">
 			<div class="pic headshot round" style="background:url(images/organizers/.png);background-size:100px 100px;"></div>

@@ -22,6 +22,7 @@ function Nav() {
 		<button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Committee</a>
+			<a href="Steering.php">Steering Committee</a>
             <a href="organizers.php">Organizing Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
@@ -32,7 +33,7 @@ function Nav() {
 
 
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiqiang Wu</div>
@@ -40,8 +41,9 @@ function Nav() {
 				<div class="affiliation">Tongji University</div>
 			</div>
 		</div>
-
-		<div class="flex flex-auto person-container">
+		
+		<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;"><!--虚线分隔符-->
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/zhengzhiming.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiming Zheng</div>
@@ -51,7 +53,7 @@ function Nav() {
 		</div>
 
 		
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/jiangchangjun.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Changjun Jiang</div>
@@ -60,7 +62,7 @@ function Nav() {
 			</div>
 		</div>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/chunchen.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Chun Chen</div>
@@ -68,8 +70,8 @@ function Nav() {
 				<div class="affiliation">Zhejiang University</div>
 			</div>
 		</div>
-		
-		<div class="flex flex-auto person-container">
+		<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;"><!--虚线分隔符-->
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/yizhilin.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Chih-Lin I</div>
@@ -79,17 +81,17 @@ function Nav() {
 		</div>
 
 		
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/yuanyu.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yu Yuan</div>
 				<div class="role bold">Steering Committee Chair</div>
-				<div class="affiliation">IEEE</div>
+				<div class="affiliation">IEEE ISTO MASA</div>
 			</div>
 		</div>
 
-		
-		<div class="flex flex-auto person-container">
+		<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;"><!--虚线分隔符-->
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/liuerwu.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Erwu Liu</div>
@@ -98,7 +100,7 @@ function Nav() {
 			</div>
 		</div>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/HaoXu.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Hao Xu</div>
@@ -111,7 +113,7 @@ function Nav() {
 
 		<div class="organizer-group-title">TPC Co-Chair</div>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Elisa Bertino</div>
@@ -120,7 +122,7 @@ function Nav() {
 			</div>
 		</div>
 		
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/cuishuguang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Shuguang Cui</div>
@@ -129,7 +131,7 @@ function Nav() {
 			</div>
 		</div>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/renkui.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Kui Ren</div>
@@ -138,7 +140,7 @@ function Nav() {
 			</div>
 		</div>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/chonggangwang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Chonggang Wang</div>
@@ -147,7 +149,7 @@ function Nav() {
 			</div>
 		</div>
 
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/leizhang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Lei Zhang</div>
@@ -160,7 +162,7 @@ function Nav() {
 
 		<div class="organizer-group-title">Publication Co-Chair</div>
 		
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/HaiJin.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Hai Jin</div>
@@ -168,7 +170,7 @@ function Nav() {
 				<div class="affiliation">Huazhong University of Science and Technology</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Haibin Kan</div>
@@ -176,7 +178,7 @@ function Nav() {
 				<div class="affiliation">Fudan University</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhihong Tian</div>
@@ -185,28 +187,28 @@ function Nav() {
 			</div>
 		</div>
 		<div class="organizer-group-title">Workshop Chair</div>
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/JiahengWang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Jiaheng Wang</div>
-				<div class="affiliation">Dongnan University</div>
+				<div class="affiliation">Southeast University</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/ShengliZhang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Shengli Zhang</div>
 				<div class="affiliation">Shenzhen University</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/HamedAhmadi.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Hamed Ahmadi</div>
 				<div class="affiliation">University of York</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/ButianHuang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Butian Huang</div>
@@ -216,12 +218,12 @@ function Nav() {
 
 		<div class="organizer-group-title">Tutorial Chair</div>
 		
-		<div class="flex flex-auto person-container">
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/YanZhang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yan Zhang</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
-				<div class="affiliation">University of OSLO</div>
+				<div class="affiliation">University of Oslo</div>
 			</div>
 		</div>
 	</div>
