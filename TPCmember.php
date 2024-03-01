@@ -28,18 +28,24 @@ function Nav() {
             <a href="operationC.php">Operations Committee</a>
             <a href="TPCmember.php">TPC member</a>
             <a href="volunteer.php">Volunteer</a>
-           
         </div><br/>
-        <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 
-			<div class="name">Jérémie Decouchant</div>
-            <div class="name">Jérémie Decouchant</div>
-		</div>
-	</div>
+	
+        <div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Abderrahim Benslimane (<span style="font-style: italic;">University of Avignon</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Taeho Jung (<span style="font-style: italic;">University of Notre Dame</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Salil Kanhere (<span style="font-style: italic;">UNSW Sydney</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Christopher Kruegel (<span style="font-style: italic;">University of California, Santa Barbara</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yujin Kwon (<span style="font-style: italic;">UC Berkeley</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Rongxing Lu (<span style="font-style: italic;">University of New Brunswick</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alessandra Scafuro (<span style="font-style: italic;">North Carolina State University</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Houbing Song (<span style="font-style: italic;">University of Maryland, Baltimore County</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Andreas Veneris (<span style="font-style: italic;">University of Toronto</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Lei Yang (<span style="font-style: italic;">University of Nevada, Reno</span>)</div>
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yuanyuan Yang (<span style="font-style: italic;">Stony Brook University</span>)</div>
+
 
     </div>
 
     
 </div>
-
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>
