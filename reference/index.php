@@ -56,7 +56,7 @@
 		#header #header-title-container .header-title .ieee-logo{
 			width:100px;
 			height: 100px;
-			background-size: url(images/ieee-logo.png)
+			background-size: url(images/ieee-logo.png);
 			background-size: 100px;
 		}
 		#header #header-quick-links{
@@ -81,7 +81,7 @@
 			width: 100%;
 			padding: 12%;
 			color: white;
-			*border-bottom: 1px solid whitesmoke;
+			border-bottom: 1px solid whitesmoke;
 		}
 		#content-container .left-bar li:hover{
 			background: whitesmoke;

@@ -30,7 +30,15 @@ function Nav() {
 			<a href="TPCmember.php">TPC member</a>
             <a href="volunteer.php">Volunteer</a>
         </div><br/>
-
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhiqiang Wu</div>
+				<div class="role bold">Advisorary Board Chair</div>
+				<div class="affiliation"></div>
+			</div>
+		</div>
+		<!--
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/ChangjunJiang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
@@ -54,15 +62,8 @@ function Nav() {
 				<div class="role bold">Advisorary Board Chair</div>
 				<div class="affiliation"></div>
 			</div>
-		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Zhiqiang Wu</div>
-				<div class="role bold">Advisorary Board Chair</div>
-				<div class="affiliation"></div>
-			</div>
-		</div>
+		</div>-->
+		
 
 
 

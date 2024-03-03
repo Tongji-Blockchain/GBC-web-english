@@ -38,27 +38,10 @@ function Nav() {
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/XuemingSi.png);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Xueming Si</div>
-			<!--<div class="role bold">Volunteer Chair</div>-->
-			<div class="affiliation">Fudan University</div>
-		</div>
-	</div>
-    
-    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/JianmingZhu.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Jianming Zhu</div>
-			<!--<div class="role bold">Volunteer Chair</div>-->
-			<div class="affiliation">Central University of Finance and Economics</div>
-		</div>
-	</div>
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Ramesh Ramadoss</div>
-			<div class="affiliation">Chair, IEEE BCTC</div>
+			<div class="name">Gora Datta</div>
+			<div class="affiliation">Vice Chair, IEEE BCTC</div>
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
@@ -69,19 +52,40 @@ function Nav() {
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ramesh Ramadoss</div>
+			<div class="affiliation">Chair, IEEE BCTC</div>
+		</div>
+	</div>
+
+
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/XuemingSi.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Xueming Si</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Fudan University</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/tracks/KaiWei.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Kai Wei</div>
 			<div class="affiliation">China Academy of Inf.  and Commun. Tech.</div>
 		</div>
 	</div>
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/JianmingZhu.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Gora Datta</div>
-			<div class="affiliation">Vice Chair, IEEE BCTC</div>
+			<div class="name">Jianming Zhu</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Central University of Finance and Economics</div>
 		</div>
 	</div>
+	
+
+
     </div>
     
 </div>
