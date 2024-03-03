@@ -6,10 +6,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -39,7 +39,16 @@ function Nav() {
 		</div>
 	</div>
     
+
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name"> Xiao Wu</div>
+			<div class="affiliation">Ethereum Riyadh Community</div>
+		</div>
+	</div>
     </div>
+
 
     
 </div>

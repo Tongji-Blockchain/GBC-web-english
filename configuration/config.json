@@ -32,6 +32,11 @@
 			"showInNavBar": true
 		},
 		{
+			"title":"Submissions Due",
+			"date": "28 March, 2024",
+			"showInNavBar": true
+		},
+		{
 			"title":"Call for Demo Proposals Due",
 			"date": "15 Apr, 2024",
 			"showInNavBar": true
@@ -46,11 +51,7 @@
 			"date": "28 Apr, 2024",
 			"showInNavBar": true
 		},
-		{
-			"title":"Submissions Due",
-			"date": "28 March, 2024",
-			"showInNavBar": true
-		},
+		
 		{
 			"title":"Contributed and Invited Papers Due",
 			"date": "15 May, 2024",
@@ -59,6 +60,11 @@
 		{
 			"title":"Notification of Acceptance",
 			"date": "1 July, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"Camera Ready Due",
+			"date": "25 July, 2024",
 			"showInNavBar": true
 		},
 		{

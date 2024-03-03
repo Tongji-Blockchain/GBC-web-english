@@ -7,10 +7,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -32,6 +32,30 @@ function Nav() {
         </div><br/>
 
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/ChangjunJiang.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Changjun Jiang</div>
+				<div class="role bold">Advisorary Board Chair</div>
+				<div class="affiliation"></div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/ChunChen.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Chun Chen</div>
+				<div class="role bold">Advisorary Board Chair</div>
+				<div class="affiliation"></div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/ZhimingZheng.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhiming Zheng</div>
+				<div class="role bold">Advisorary Board Chair</div>
+				<div class="affiliation"></div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiqiang Wu</div>
@@ -39,11 +63,9 @@ function Nav() {
 				<div class="affiliation"></div>
 			</div>
 		</div>
-		<div class="spacer"></div>
 
-		Stay tuned
-		<i class="fa fa-align-center"></i>
-		<i class="fa-light fa-scribble"></i>
+
+
 
 		<!-- <div class="flex flex-auto person-container">
 			<div class="pic headshot round" style="background:url(images/organizers/.png);background-size:100px 100px;"></div>

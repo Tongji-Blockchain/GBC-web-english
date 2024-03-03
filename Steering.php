@@ -6,10 +6,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -54,8 +54,35 @@ function Nav() {
 			<div class="affiliation">Central University of Finance and Economics</div>
 		</div>
 	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ramesh Ramadoss</div>
+			<div class="affiliation">Chair, IEEE BCTC</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/MingLi.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ming Li</div>
+			<div class="affiliation">W3SA-HK & IEEE BDL</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/KaiWei.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Kai Wei</div>
+			<div class="affiliation">China Academy of Inf.  and Commun. Tech.</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Gora Datta</div>
+			<div class="affiliation">Vice Chair, IEEE BCTC</div>
+		</div>
+	</div>
     </div>
-
     
 </div>
 

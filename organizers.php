@@ -6,10 +6,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "250px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "250px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -159,7 +159,34 @@ function Nav() {
 		</div>
 		
 		<div class="spacer"></div>
+		<div class="organizer-group-title">Publicity Co-Chair</div>
+		
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/JiaqiYan.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Jiaqi Yan</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Nanjing University</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Qianhong Wu</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Beihang University</div>
+			</div>
+		</div>
 
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/XiaoshuaiZhang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Xiaoshuai Zhang</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Ocean University of China</div>
+			</div>
+		</div>
+		<div class="spacer"></div>
 		<div class="organizer-group-title">Publication Co-Chair</div>
 		
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
@@ -224,6 +251,17 @@ function Nav() {
 				<div class="name">Yan Zhang</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
 				<div class="affiliation">University of Oslo</div>
+			</div>
+		</div>
+
+		<div class="organizer-group-title">Award Chair</div>
+		
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/XiaosongZhang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Xiaosong Zhang</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Univ. of Electron. Sci. & Tech. of China</div>
 			</div>
 		</div>
 	</div>

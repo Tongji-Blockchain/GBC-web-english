@@ -1,5 +1,6 @@
 <?php 
 $pageTitle='welcome'; //THIS MUST BE SET FOR EACH PAGE
+$stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
@@ -64,6 +65,55 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	<div class="about-image" style="background: url(images/blockchain/blockchain4.png) 150px 150px"></div>
 	<div class="about-image" style="background: url(images/blockchain/blockchain5.png) 150px 150px"></div>
 </div>	
+<br><br>
+
+
+<div style="font-weight: bold;font-size: 24;color: #191970;">Keynote Speakers</div>
+<div style="display: inline-block; margin-right: 40px;">
+    <table>
+        <tr>
+            <td style="text-align: center;padding-left: 15px;padding-top: 20px;">
+                <div class="pic headshot round" style="background:url(images/organizers/thomas.png);background-size:100px 100px;"></div>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <div class="name" style="font-size: 16px;color: #191970;">Thomas Coughlin</div>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <div class="position" style="font-size: 16px;color: #191970;">IEEE President</div>
+            </td>
+        </tr>
+    </table>
+</div>
+<div style="display: inline-block; margin-right: 40px;">
+    <table>
+        <tr>
+            <td style="text-align: center;padding-left: 15px;padding-top: 20px;">
+                <div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <div class="name" style="font-size: 16px;color: #191970;">Elisa Bertino</div>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <div class="position" style="font-size: 16px;color: #191970;">ACM Vice President</div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+
+
+
+
+
 <br><br>
 <div style="font-weight: bold;font-size: 24;color: #191970;">Sponsors</div>
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>
