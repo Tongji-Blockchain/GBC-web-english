@@ -179,7 +179,7 @@ function Nav() {
 		</div>
 		
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.png);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Qianhong Wu</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
