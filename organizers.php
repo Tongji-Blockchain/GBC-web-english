@@ -161,11 +161,29 @@ function Nav() {
 		<div class="spacer"></div>
 		<div class="organizer-group-title">Publicity Co-Chair</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/YaoSun.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Yao Sun</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">The University of Glasgow</div>
+			</div>
+		</div>
+		
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/YiSun.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yi Sun</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
 				<div class="affiliation">Institute of Computing Technology</div>
+			</div>
+		</div>
+		
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Qianhong Wu</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Beihang University</div>
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
@@ -176,15 +194,6 @@ function Nav() {
 				<div class="affiliation">Nanjing University</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Qianhong Wu</div>
-				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
-				<div class="affiliation">Beihang University</div>
-			</div>
-		</div>
-
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/XiaoshuaiZhang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
