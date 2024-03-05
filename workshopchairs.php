@@ -39,10 +39,9 @@ function Nav() {
         <br><br>
 
         <h1>AUTHOR AND SUBMISSION GUIDELINES</h1>
-        Notification of Selection: 1 February  2024, with the deadline extended to 28 March 2024. Additionally, please ensure that the subject of your email contains 'IEEE GBC 2024 Tutorial Proposal'.
+       
         <br><br>
-        All tutorial proposals should be submitted to Prof. Yan Zhang via email.
-        <class style="font-weight: bold"> (yanzhang@ifi.uio.no)</class>
+
 		<br><br>
 
 	</div>

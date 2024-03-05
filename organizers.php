@@ -215,6 +215,28 @@ function Nav() {
 		</div>
 		<div class="organizer-group-title">Workshop Chair</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/HamedAhmadi.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Hamed Ahmadi</div>
+				<div class="affiliation">University of York</div>
+			</div>
+		</div>
+		<div class="organizer-group-title">Workshop Chair</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/BinCao.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Bin Cao</div>
+				<div class="affiliation">Beijing University of Posts and Telecommunications</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/ButianHuang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Butian Huang</div>
+				<div class="affiliation">Yunphant</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/JiahengWang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Jiaheng Wang</div>
@@ -228,20 +250,7 @@ function Nav() {
 				<div class="affiliation">Shenzhen University</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/HamedAhmadi.jpg);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Hamed Ahmadi</div>
-				<div class="affiliation">University of York</div>
-			</div>
-		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/ButianHuang.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Butian Huang</div>
-				<div class="affiliation">Yunphant</div>
-			</div>
-		</div>
+		
 
 		<div class="organizer-group-title">Tutorial Chair</div>
 		
