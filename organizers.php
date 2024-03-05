@@ -186,7 +186,7 @@ function Nav() {
 		</div>
 
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/XiaoshuaiZhang.png);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/XiaoshuaiZhang.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Xiaoshuai Zhang</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -228,7 +228,6 @@ function Nav() {
 				<div class="affiliation">University of York</div>
 			</div>
 		</div>
-		<div class="organizer-group-title">Workshop Chair</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/BinCao.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
