@@ -30,7 +30,7 @@ function Nav() {
             <a href="volunteer.php">Volunteer</a>
         </div><br/>
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/ZhongChen.png);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/tracks/ZhongChen.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Zhong Chen</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -45,7 +45,7 @@ function Nav() {
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/MingLi.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/tracks/MingLi.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Ming Li</div>
 			<div class="affiliation">W3SA-HK & IEEE BDL</div>
