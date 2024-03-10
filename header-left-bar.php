@@ -111,8 +111,9 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 				</div>
 			</div>
 			<div class="flex flex-wrap logos" style="width: 15%">
-				<div class="" style="margin-top:3%;width:100%;height:85px;background:url(images/logo/) no-repeat"></div>
+				<div style="margin-top:1%;width:220px;height:70px;background:url(images/logo/) no-repeat"></div>
 				<div style="margin-top:1%;width:220px;height:85px;background:url(images/logo/IEEE-Blockchain.png) no-repeat"></div>
+				<!--<div style="margin-top:1%;width:220px;height:70px;background:url(images/logo/TJUlogo.png) no-repeat"></div>	-->			
 				<div style="margin-top:1%;width:220px;height:85px;background:url(images/logo/SERCBAAS-Blue.png) no-repeat"></div>
 			</div>
 		</div>
