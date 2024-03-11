@@ -31,18 +31,27 @@ function Nav() {
         </div><br/>
 
 	
-        <div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Abderrahim Benslimane (<span style="font-style: italic;">University of Avignon</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Taeho Jung (<span style="font-style: italic;">University of Notre Dame</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Salil Kanhere (<span style="font-style: italic;">UNSW Sydney</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Christopher Kruegel (<span style="font-style: italic;">University of California, Santa Barbara</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yujin Kwon (<span style="font-style: italic;">UC Berkeley</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Rongxing Lu (<span style="font-style: italic;">University of New Brunswick</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alessandra Scafuro (<span style="font-style: italic;">North Carolina State University</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Houbing Song (<span style="font-style: italic;">University of Maryland, Baltimore County</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Andreas Veneris (<span style="font-style: italic;">University of Toronto</span>)</div>
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Lei Yang (<span style="font-style: italic;">University of Nevada, Reno</span>)</div>
+        <div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Abderrahim Benslimane (<span style="font-style: italic;">University of Avignon</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alysson Bessani (<span style="font-style: italic;">Faculdade de Ciências da Universidade de Lisboa</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Ashok Kumar Das (<span style="font-style: italic;">International Institute of Information Technology, Hyderabad</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Aiman Erbad (<span style="font-style: italic;">Hamad Bin Khalifa University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Taeho Jung (<span style="font-style: italic;">University of Notre Dame</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Salil Kanhere (<span style="font-style: italic;">UNSW Sydney</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Aniket Kate (<span style="font-style: italic;">Purdue University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Christopher Kruegel (<span style="font-style: italic;">University of California, Santa Barbara</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yujin Kwon (<span style="font-style: italic;">UC Berkeley</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Gyu Myoung Lee (<span style="font-style: italic;">Liverpool John Moores University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Rongxing Lu (<span style="font-style: italic;">University of New Brunswick</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">David Mohaisen (<span style="font-style: italic;">University of Central Florida</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Daehun Nyang (<span style="font-style: italic;">Ewha Womans University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Danda Rawat (<span style="font-style: italic;">Howard University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alessandra Scafuro (<span style="font-style: italic;">North Carolina State University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Houbing Song (<span style="font-style: italic;">University of Maryland, Baltimore County</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Gautam Srivastava (<span style="font-style: italic;">Brandon University</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Eirini Eleni Tsiropoulou (<span style="font-style: italic;">University of New Mexico</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Andreas Veneris (<span style="font-style: italic;">University of Toronto</span>)</div>  
+<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Lei Yang (<span style="font-style: italic;">University of Nevada, Reno</span>)</div>  
 <div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yuanyuan Yang (<span style="font-style: italic;">Stony Brook University</span>)</div>
-
 
     </div>
 
