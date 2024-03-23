@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='TPC member'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='TPC members'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -12,6 +12,7 @@ function Nav() {
         nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
     }
 }
+
 </script>
 
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
@@ -26,14 +27,30 @@ function Nav() {
             <a href="TPC.php">Technical Program Committee</a>
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
             <a href="operationC.php">Operations Committee</a>
-            <a href="TPCmember.php">TPC member</a>
+            <a href="TPCmember.php">TPC members</a>
             <a href="volunteer.php">Volunteer</a>
         </div><br/>
 
 	
-        <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Abderrahim Benslimane <span style="position: absolute; left: calc(30% + 10px);">University of Avignon</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Aiman Erbad <span style="position: absolute; left: calc(30% + 10px);">Hamad Bin Khalifa University</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alessandra Scafuro <span style="position: absolute; left: calc(30% + 10px);">North Carolina State University</span></div>
+        <table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Abderrahim Benslimane <span style="position: absolute; left: calc(30% + 10px);">University of Avignon</span></div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Aiman Erbad <span style="position: absolute; left: calc(30% + 10px);">Hamad Bin Khalifa University</span></div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alessandra Scafuro <span style="position: absolute; left: calc(30% + 10px);">North Carolina State University</span></div>
+    </td>
+  </tr>
+  <!-- 添加更多行以列出更多人 -->
+</table>
+
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alessandro Aldini <span style="position: absolute; left: calc(30% + 10px);">University of Urbino</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alysson Bessani <span style="position: absolute; left: calc(30% + 10px);">Faculdade de Ciências da Universidade de Lisboa</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Andreas Veneris <span style="position: absolute; left: calc(30% + 10px);">University of Toronto</span></div>
@@ -85,7 +102,7 @@ function Nav() {
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Martin Maier <span style="position: absolute; left: calc(30% + 10px);">Institut National de la Recherche Scientifique (INRS)</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Mohammad Jalalzai <span style="position: absolute; left: calc(30% + 10px);">University of British Columbia</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Murat Yuksel <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Pedro Augusto Da Silva E Souza Miranda <span style="position: absolute; left: calc(50% + 10px);">University of Waterloo</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Pedro Miranda <span style="position: absolute; left: calc(30% + 10px);">University of Waterloo</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Peiyao Sheng <span style="position: absolute; left: calc(30% + 10px);">University of Illinois Urbana-Champaign</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Qi Xia <span style="position: absolute; left: calc(30% + 10px);">University of Electronic Science and Technology of China</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Qinglin Zhao <span style="position: absolute; left: calc(30% + 10px);">Macau University of Science and Technology</span></div>
@@ -117,10 +134,10 @@ function Nav() {
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yukun Cheng <span style="position: absolute; top: 0; left: calc(30% + 10px);">Suzhou University of Science and Technology</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yuzhe Tang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Syracuse University</span></div>
 <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zakirul Alam Bhuiyan <span style="position: absolute; top: 0; left: calc(30% + 10px);">Fordham University</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhiguo Wan <span style="position: absolute; top: 0; left: calc(30% + 10px);">Zhejiang Lab, Hangzhou, Zhejiang</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhipeng Gao <span style="position: absolute; top: 0; left: calc(30% + 10px);">Beijing University of Posts and Telecommunications</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhipeng Wang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Imperial College London</span></div>
-<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhonghai Wu <span style="position: absolute; top: 0; left: calc(30% + 10px);">Peking Univerisity</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;word-wrap: break-word;">Zhiguo Wan <span style="position: absolute; top: 0; left: calc(30% + 10px);">Zhejiang Lab, Hangzhou, Zhejiang</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;word-wrap: break-word;">Zhipeng Gao <span style="position: absolute; top: 0; left: calc(30% + 10px);">Beijing University of Posts and Telecommunications</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;word-wrap: break-word;">Zhipeng Wang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Imperial College London</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;word-wrap: break-word;">Zhonghai Wu <span style="position: absolute; top: 0; left: calc(30% + 10px);">Peking Univerisity</span></div>
 
 
 
@@ -139,6 +156,5 @@ function Nav() {
 
     </div>
 
-    
 </div>
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>

@@ -27,7 +27,7 @@ function Nav() {
             <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
             <a href="operationC.php">Operations Committee</a>
             <a href="TPCmember.php">TPC member</a>
-            <a href="volunteer.php">Volunteer</a>
+            <a href="volunteer.php">Volunteers</a>
         </div><br/>
 
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
