@@ -25,7 +25,7 @@ function Nav() {
             <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
             <a href="Call for Tutorials.php" style="margin-left: 2%;">Call for Tutorials</a> <!-- 使用百分比单位 -->
             <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
-            <a href="Workshopchairs.php" style="margin-left: 2%;">workshop chairs</a> <!-- 使用百分比单位 -->
+            <a href="Workshopchairs.php" style="margin-left: 2%;">Call for workshop papers</a> <!-- 使用百分比单位 -->
         </div>
     </div>
 </div>

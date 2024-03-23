@@ -31,165 +31,102 @@ function Nav() {
         </div><br/>
 
 	
-        <div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Abderrahim Benslimane (<span style="font-style: italic;">University of Avignon</span>)</div>
+        <div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Abderrahim Benslimane <span style="position: absolute; left: calc(30% + 10px);">University of Avignon</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Aiman Erbad <span style="position: absolute; left: calc(30% + 10px);">Hamad Bin Khalifa University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alessandra Scafuro <span style="position: absolute; left: calc(30% + 10px);">North Carolina State University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alessandro Aldini <span style="position: absolute; left: calc(30% + 10px);">University of Urbino</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Alysson Bessani <span style="position: absolute; left: calc(30% + 10px);">Faculdade de Ciências da Universidade de Lisboa</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Andreas Veneris <span style="position: absolute; left: calc(30% + 10px);">University of Toronto</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Angelo De Caro <span style="position: absolute; left: calc(30% + 10px);">IBM Research Zurich</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Aniket Kate <span style="position: absolute; left: calc(30% + 10px);">Purdue University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Ashok Kumar Das <span style="position: absolute; left: calc(30% + 10px);">International Institute of Information Technology, Hyderabad</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Athanasios V. Vasilakos <span style="position: absolute; left: calc(30% + 10px);">Lulea University of Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Athman Bouguettaya <span style="position: absolute; left: calc(30% + 10px);">University of Sydney</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Axel Küpper <span style="position: absolute; left: calc(30% + 10px);">TU Berlin</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Bill Buchanan <span style="position: absolute; left: calc(30% + 10px);">Edinburgh Napier University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Chase Wu <span style="position: absolute; left: calc(30% + 10px);">New Jersey Institute of Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Chengnian Long <span style="position: absolute; left: calc(30% + 10px);">Shanghai Jiao Tong University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Christopher Kruegel <span style="position: absolute; left: calc(30% + 10px);">University of California, Santa Barbara</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Daehun Nyang <span style="position: absolute; left: calc(30% + 10px);">Ewha Womans University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Danda Rawat <span style="position: absolute; left: calc(30% + 10px);">Howard University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">David Mohaisen <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">David Wei <span style="position: absolute; left: calc(30% + 10px);">Fordham University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Eirini Eleni Tsiropoulou <span style="position: absolute; left: calc(30% + 10px);">University of New Mexico</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Evangelos Pournaras <span style="position: absolute; left: calc(30% + 10px);">University of Leeds</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Filip Rezabek <span style="position: absolute; left: calc(30% + 10px);">Technical University of Munich</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Francesco Longo <span style="position: absolute; left: calc(30% + 10px);">University of Messina</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Gautam Srivastava <span style=" position: absolute; left: calc(30% + 10px);">Brandon University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">George Drosatos <span style=" position: absolute; left: calc(30% + 10px);">Athena Research Center</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Gyu Myoung Lee <span style=" position: absolute; left: calc(30% + 10px);">Liverpool John Moores University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Haiming Jin <span style=" position: absolute; left: calc(30% + 10px);">Shanghai Jiao Tong University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Hoang Tam Vo <span style=" position: absolute; left: calc(30% + 10px);">RMIT University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Hongxin Hu <span style="position: absolute; left: calc(30% + 10px);">University at Buffalo</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Houbing Song <span style="position: absolute; left: calc(30% + 10px);">University of Maryland, Baltimore County</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Imre Kocsis <span style="position: absolute; left: calc(30% + 10px);">Budapest University of Technology and Economics</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Ivan Homoliak <span style="position: absolute; left: calc(30% + 10px);">Brno University of Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">James Kempf <span style="position: absolute; left: calc(30% + 10px);">UCSC Silicon Valley</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Jianan Hong <span style="position: absolute; left: calc(30% + 10px);">Shanghai Jiao Tong University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Jianyu Niu <span style="position: absolute; left: calc(30% + 10px);">Southern University of Science and Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Jie Yang <span style="position: absolute; left: calc(30% + 10px);">Florida State University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Jinguang Han <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Joshua Ellul <span style="position: absolute; left: calc(30% + 10px);">University of Malta</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Jun Dai <span style="position: absolute; left: calc(30% + 10px);">Worcester Polytechnic Institute</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Kai Li <span style="position: absolute; left: calc(30% + 10px);">San Diego State University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Kaihua Qin <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Keke Gai <span style="position: absolute; left: calc(30% + 10px);">Beijing Institute of Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Keping Yu <span style="position: absolute; left: calc(30% + 10px);">Hosei University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Kwok-Yan Lam <span style="position: absolute; left: calc(30% + 10px);">Nanyang Technological University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Latif Ladid <span style="position: absolute; left: calc(30% + 10px);">University of Luxembourg / IPv6 Forum</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Laura Ricci <span style="position: absolute; left: calc(30% + 10px);">University of Pisa</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Lei Yang <span style="position: absolute; left: calc(30% + 10px);">University of Nevada, Reno</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Leonardo Aniello <span style="position: absolute; left: calc(30% + 10px);">University of Southampton</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Lo-Yao Yeh <span style="position: absolute; left: calc(30% + 10px);">National Central University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Lukas Aumayr <span style="position: absolute; left: calc(30% + 10px);">TU Wien</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Martin Maier <span style="position: absolute; left: calc(30% + 10px);">Institut National de la Recherche Scientifique (INRS)</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Mohammad Jalalzai <span style="position: absolute; left: calc(30% + 10px);">University of British Columbia</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Murat Yuksel <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Pedro Augusto Da Silva E Souza Miranda <span style="position: absolute; left: calc(50% + 10px);">University of Waterloo</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Peiyao Sheng <span style="position: absolute; left: calc(30% + 10px);">University of Illinois Urbana-Champaign</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Qi Xia <span style="position: absolute; left: calc(30% + 10px);">University of Electronic Science and Technology of China</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Qinglin Zhao <span style="position: absolute; left: calc(30% + 10px);">Macau University of Science and Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Rongxing Lu <span style="position: absolute; left: calc(30% + 10px);">University of New Brunswick</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Salil Kanhere <span style="position: absolute; top: 0; left: calc(30% + 10px);">UNSW Sydney</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Shamik Sural <span style="position: absolute; top: 0; left: calc(30% + 10px);">IIT Kharagpur</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Shouling Ji <span style="position: absolute; top: 0; left: calc(30% + 10px);">Zhejiang University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Stefan Schulte <span style="position: absolute; top: 0; left: calc(30% + 10px);">Hamburg University of Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Stefan Tai <span style="position: absolute; top: 0; left: calc(30% + 10px);">TU Berlin</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Taeho Jung <span style="position: absolute; top: 0; left: calc(30% + 10px);">University of Notre Dame</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Tao Xiang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Chongqing University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Thomas Thiery <span style="position: absolute; top: 0; left: calc(30% + 10px);">Ethereum Foundation</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Wang Liangmin <span style="position: absolute; top: 0; left: calc(30% + 10px);">Southeast University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Wazen Shbair <span style="position: absolute; top: 0; left: calc(30% + 10px);">VNX</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Weidong Shi <span style="position: absolute; top: 0; left: calc(30% + 10px);">University of Houston</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Weizhi Meng <span style="position: absolute; top: 0; left: calc(30% + 10px);">Technical University of Denmark</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Xiaoguang Liu <span style="position: absolute; top: 0; left: calc(30% + 10px);">Nankai University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Xihan Xiong <span style="position: absolute; top: 0; left: calc(30% + 10px);">Imperial College London</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Xingliang Yuan <span style="position: absolute; top: 0; left: calc(30% + 10px);">University of Melbourne</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Xun Yi <span style="position: absolute; top: 0; left: calc(30% + 10px);">RMIT University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Ye Wang <span style="position: absolute; top: 0; left: calc(30% + 10px);">University of Macau</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yingjie Xue <span style="position: absolute; top: 0; left: calc(30% + 10px);">The Hong Kong University of Science and Technology (Guangzhou)</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yingjiu Li <span style="position: absolute; top: 0; left: calc(30% + 10px);">University of Oregon</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yizhong Liu <span style="position:absolute; top: 0; left: calc(30% + 10px);">Beihang University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Youngho Park <span style="position: absolute; top: 0; left: calc(30% + 10px);">Kyungpook National University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Youwen Zhu <span style="position: absolute; top: 0; left: calc(30% + 10px);">Nanjing University of Aeronautics and Astronautics</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yuanyuan Yang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Stony Brook University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yujin Potter <span style="position: absolute; top: 0; left: calc(30% + 10px);">UC Berkeley</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yukun Cheng <span style="position: absolute; top: 0; left: calc(30% + 10px);">Suzhou University of Science and Technology</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Yuzhe Tang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Syracuse University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zakirul Alam Bhuiyan <span style="position: absolute; top: 0; left: calc(30% + 10px);">Fordham University</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhiguo Wan <span style="position: absolute; top: 0; left: calc(30% + 10px);">Zhejiang Lab, Hangzhou, Zhejiang</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhipeng Gao <span style="position: absolute; top: 0; left: calc(30% + 10px);">Beijing University of Posts and Telecommunications</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhipeng Wang <span style="position: absolute; top: 0; left: calc(30% + 10px);">Imperial College London</span></div>
+<div style="font-size: 20px; color: #191970; position: relative; line-height: 1.5;">Zhonghai Wu <span style="position: absolute; top: 0; left: calc(30% + 10px);">Peking Univerisity</span></div>
 
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Aiman Erbad (<span style="font-style: italic;">Hamad Bin Khalifa University</span>)</div>
 
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alessandra Scafuro (<span style="font-style: italic;">North Carolina State University</span>)</div>
 
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alessandro Aldini (<span style="font-style: italic;">University of Urbino</span>)</div>
 
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Alysson Bessani (<span style="font-style: italic;">Faculdade de Ciências da Universidade de Lisboa</span>)</div>
 
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Andreas Veneris (<span style="font-style: italic;">University of Toronto</span>)</div>
 
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Angelo De Caro (<span style="font-style: italic;">IBM Research Zurich</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Aniket Kate (<span style="font-style: italic;">Purdue University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Ashok Kumar Das (<span style="font-style: italic;">International Institute of Information Technology, Hyderabad</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Athman Bouguettaya (<span style="font-style: italic;">University of Sydney</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Bill Buchanan (<span style="font-style: italic;">Edinburgh Napier University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Chase Wu (<span style="font-style: italic;">New Jersey Institute of Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Christopher Kruegel (<span style="font-style: italic;">University of California, Santa Barbara</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Daehun Nyang (<span style="font-style: italic;">Ewha Womans University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Danda Rawat (<span style="font-style: italic;">Howard University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">David Mohaisen (<span style="font-style: italic;">University of Central Florida</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">David Wei (<span style="font-style: italic;">Fordham University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Eirini Eleni Tsiropoulou (<span style="font-style: italic;">University of New Mexico</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Evangelos Pournaras (<span style="font-style: italic;">University of Leeds</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Filip Rezabek (<span style="font-style: italic;">Technical University of Munich</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Francesco Longo (<span style="font-style: italic;">University of Messina</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Gautam Srivastava (<span style="font-style: italic;">Brandon University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">George Drosatos (<span style="font-style: italic;">Athena Research Center</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Gyu Myoung Lee (<span style="font-style: italic;">Liverpool John Moores University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Haiming Jin (<span style="font-style: italic;">Shanghai Jiao Tong University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Hoang Tam Vo (<span style="font-style: italic;">RMIT University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Hongxin Hu (<span style="font-style: italic;">University at Buffalo</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Houbing Song (<span style="font-style: italic;">University of Maryland, Baltimore County</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Imre Kocsis (<span style="font-style: italic;">Budapest University of Technology and Economics</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Ivan Homoliak (<span style="font-style: italic;">Brno University of Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Jianan Hong (<span style="font-style: italic;">Shanghai Jiao Tong University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Jianyu Niu (<span style="font-style: italic;">Southern University of Science and Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Jie Yang (<span style="font-style: italic;">Florida State University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Jinguang Han (<span style="font-style: italic;">Southeast University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Joshua Ellul (<span style="font-style: italic;">University of Malta</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Jun Dai (<span style="font-style: italic;">Worcester Polytechnic Institute</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Kai Li (<span style="font-style: italic;">San Diego State University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Kaihua Qin (<span style="font-style: italic;">Imperial College London</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Keke Gai (<span style="font-style: italic;">Beijing Institute of Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Keping Yu (<span style="font-style: italic;">Hosei University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Kwok-Yan Lam (<span style="font-style: italic;">Nanyang Technological University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Laura Ricci (<span style="font-style: italic;">University of Pisa</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Lei Yang (<span style="font-style: italic;">University of Nevada, Reno</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Leonardo Aniello (<span style="font-style: italic;">University of Southampton</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Lo-Yao Yeh (<span style="font-style: italic;">National Central University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Lukas Aumayr (<span style="font-style: italic;">TU Wien</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Martin Maier (<span style="font-style: italic;">Institut National de la Recherche Scientifique (INRS)</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Mohammad Jalalzai (<span style="font-style: italic;">University of British Columbia</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Murat Yuksel (<span style="font-style: italic;">University of Central Florida</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Pedro Augusto Da Silva E Souza Miranda (<span style="font-style: italic;">University of Waterloo</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Peiyao Sheng (<span style="font-style: italic;">University of Illinois Urbana-Champaign</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Qinglin Zhao (<span style="font-style: italic;">Macau University of Science and Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Rongxing Lu (<span style="font-style: italic;">University of New Brunswick</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Salil Kanhere (<span style="font-style: italic;">UNSW Sydney</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Shamik Sural (<span style="font-style: italic;">IIT Kharagpur</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Shouling Ji (<span style="font-style: italic;">Zhejiang University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Stefan Schulte (<span style="font-style: italic;">Hamburg University of Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Stefan Tai (<span style="font-style: italic;">TU Berlin</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Taeho Jung (<span style="font-style: italic;">University of Notre Dame</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Tao Xiang (<span style="font-style: italic;">Chongqing University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Thomas Thiery (<span style="font-style: italic;">Ethereum Foundation</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Wazen Shbair (<span style="font-style: italic;">VNX</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Weidong Shi (<span style="font-style: italic;">University of Houston</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Weizhi Meng (<span style="font-style: italic;">Technical University of Denmark</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Xihan Xiong (<span style="font-style: italic;">Imperial College London</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Xingliang Yuan (<span style="font-style: italic;">University of Melbourne</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Xun Yi (<span style="font-style: italic;">RMIT University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Ye Wang (<span style="font-style: italic;">University of Macau</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yingjie Xue (<span style="font-style: italic;">The Hong Kong University of Science and Technology (Guangzhou)</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yingjiu Li (<span style="font-style: italic;">University of Oregon</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yizhong Liu (<span style="font-style: italic;">Beihang University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Youngho Park (<span style="font-style: italic;">Kyungpook National University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Youwen Zhu (<span style="font-style: italic;">Nanjing University of Aeronautics and Astronautics</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yuanyuan Yang (<span style="font-style: italic;">Stony Brook University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yujin Kwon (<span style="font-style: italic;">UC Berkeley</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yukun Cheng (<span style="font-style: italic;">Suzhou University of Science and Technology</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Yuzhe Tang (<span style="font-style: italic;">Syracuse University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Zakirul Alam Bhuiyan (<span style="font-style: italic;">Fordham University</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Zhipeng Gao (<span style="font-style: italic;">Beijing University of Posts and Telecommunications</span>)</div>
-
-<div style="font-size: 20px; color: #191970; margin-bottom: 20px;">Zhipeng Wang (<span style="font-style: italic;">Imperial College London</span>)</div>
 
 
 
