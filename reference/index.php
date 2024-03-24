@@ -5,8 +5,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<style type="text/css">
 		html, body, .main-container{
 			font-family: 'Open Sans', sans-serif;

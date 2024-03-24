@@ -69,7 +69,7 @@ p{
 #header #header-title-container .header-title .ieee-logo{
 	width:100px;
 	height: 100px;
-	background-size: url(images/ieee-logo.png)
+	background-size: url(images/ieee-logo.png);
 	background-size: 100px;
 }
 #header #header-quick-links{
