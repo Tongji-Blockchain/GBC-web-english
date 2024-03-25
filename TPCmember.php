@@ -148,6 +148,7 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">David Mohaisen <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
     </td>
 </tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">David Wei <span style="position: absolute; left: calc(30% + 10px);">Fordham University</span></div>
@@ -165,19 +166,37 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Evangelos Pournaras <span style="position: absolute; left: calc(30% + 10px);">University of Leeds</span></div>
     </td>
 </tr>
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fehmi Jaafar <span style="position: absolute; left: calc(30% + 10px);">Quebec University</span></div>
+    </td>
+</tr>
 
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fei	Chen <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Filip Rezabek <span style="position: absolute; left: calc(30% + 10px);">Technical University of Munich</span></div>
     </td>
 </tr>
-
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Francesco Longo <span style="position: absolute; left: calc(30% + 10px);">University of Messina</span></div>
     </td>
 </tr>
 
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Frederico Schardong <span style="position: absolute; left: calc(30% + 10px);">Instituto Federal Do Rio Grande Do Sul</span></div>
+    </td>
+</tr> 
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Gautam Srivastava <span style="position: absolute; left: calc(30% + 10px);">Brandon University</span></div>
@@ -190,6 +209,12 @@ function Nav() {
     </td>
 </tr>
 
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Guoming Yang <span style="position: absolute; left: calc(30% + 10px);">Singapore Management University</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Gyu Myoung Lee <span style="position: absolute; left: calc(30% + 10px);">Liverpool John Moores University</span></div>
@@ -276,6 +301,12 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Zhao <span style="position: absolute; left: calc(30% + 10px);">Nanyang Technological University</span></div>
+    </td>
+</tr>    
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kai Li <span style="position: absolute; left: calc(30% + 10px);">San Diego State University</span></div>
     </td>
 </tr>
@@ -303,7 +334,13 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kwok-Yan Lam <span style="position: absolute; left: calc(30% + 10px);">Nanyang Technological University</span></div>
     </td>
 </tr>
-
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laizhong	Cui <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Latif Ladid <span style="position: absolute; left: calc(30% + 10px);">University of Luxembourg / IPv6 Forum</span></div>
@@ -327,11 +364,13 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Leonardo Aniello <span style="position: absolute; left: calc(30% + 10px);">University of Southampton</span></div>
     </td>
 </tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Liangmin Wang <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
     </td>
 </tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lo-Yao Yeh <span style="position: absolute; left: calc(30% + 10px);">National Central University</span></div>
@@ -361,7 +400,13 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Murat Yuksel <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
     </td>
 </tr>
-
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Paulo Henrique Alves <span style="position: absolute; left: calc(30% + 10px);">PUC-Rio - Pontifical Catholic University of Rio de Janeiro</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Pedro Miranda <span style="position: absolute; left: calc(30% + 10px);">University of Waterloo</span></div>
@@ -391,13 +436,25 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Rongxing Lu <span style="position: absolute; left: calc(30% + 10px);">University of New Brunswick</span></div>
     </td>
 </tr>
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Runchao Han <span style="position: absolute; left: calc(30% + 10px);">BabylonChain</span></div>
+    </td>
+</tr>
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Salil Kanhere <span style="position: absolute; left: calc(30% + 10px);">UNSW Sydney</span></div>
     </td>
 </tr>
-
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shaileshh Bojja Venkatakrishnan <span style="position: absolute; left: calc(30% + 10px);">The Ohio State University</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shamik Sural <span style="position: absolute; left: calc(30% + 10px);">IIT Kharagpur</span></div>
@@ -440,7 +497,17 @@ function Nav() {
     </td>
 </tr>
 
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tim	Weingärtner <span style="position: absolute; left: calc(30% + 10px);">Lucerne University of Applied Sciences and Arts</span></div>
+    </td>
+</tr>
 
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Wang	Liangmin <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
+    </td>
+</tr>    
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
@@ -471,12 +538,19 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xihan Xiong <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
     </td>
 </tr>
-
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xin Wan <span style="position: absolute; left: calc(30% + 10px);">Uniswap Labs</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xingliang Yuan <span style="position: absolute; left: calc(30% + 10px);">University of Melbourne</span></div>
     </td>
 </tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xun Yi <span style="position: absolute; left: calc(30% + 10px);">RMIT University</span></div>
@@ -509,6 +583,12 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youakim Badr <span style="position: absolute; left: calc(30% + 10px);">Pennsylvania State University at Great Valley</span></div>
+    </td>
+</tr>
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youngho Park <span style="position: absolute; left: calc(30% + 10px);">Kyungpook National University</span></div>
     </td>
 </tr>
@@ -519,6 +599,12 @@ function Nav() {
     </td>
 </tr>
 
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuan Lu <span style="position: absolute; left: calc(30% + 10px);">New Jersey Institute of Technolgoy</span></div>
+    </td>
+</tr>
+    
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuanyuan Yang <span style="position: absolute; left: calc(30% + 10px);">Stony Brook University</span></div>
