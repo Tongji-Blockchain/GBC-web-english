@@ -334,7 +334,11 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Leonardo Aniello <span style="position: absolute; left: calc(30% + 10px);">University of Southampton</span></div>
     </td>
 </tr>
-
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Liangmin Wang <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
+    </td>
+</tr>
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lo-Yao Yeh <span style="position: absolute; left: calc(30% + 10px);">National Central University</span></div>
@@ -443,11 +447,7 @@ function Nav() {
     </td>
 </tr>
 
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Wang Liangmin <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
-    </td>
-</tr>
+
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
