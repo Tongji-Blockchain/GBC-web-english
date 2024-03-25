@@ -3,7 +3,7 @@ $pageTitle='TPC members'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
 
 <script>
 function Nav() {
