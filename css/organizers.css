@@ -13,20 +13,9 @@
     margin-top: 0;
     margin-bottom: 10%;
 }
-@media screen and (max-width: 300px) {
-    html {
-        width: 300px;
-        font-size: 12px;
-    }
-}
 
-@media screen and (min-width: 500px) {
-    html {
-        width: 500px;
-        font-size: 20px;
-        margin: 0 auto;  /* 让窗口水平居中展示 */
-    }
-}
+
+
 .person-container .name{
 	font-size: large;
 	color: #191970;

@@ -16,14 +16,7 @@ function Nav() {
 }
 
 </script>
-<style>
-    @media only screen and (max-width: 600px) {
-        /* 在屏幕宽度小于600px时，将字体大小设置为适合手机屏幕的大小 */
-        .responsive-font {
-            font-size: 3vw; /* 也可以根据需要调整 */
-        }
-    }
-</style>
+
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
 
     <div style="flex: 5;">
