@@ -17,7 +17,7 @@ function Nav() {
 
 </script>
 <style>
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 1000px) {
     /* 设置手机上的文字大小 */
     .responsive-font {
         font-size: 16px; /* 根据需要调整大小 */
