@@ -79,7 +79,7 @@ function Nav() {
 </tr>
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ashok Kumar Das <span style="position: absolute; left: calc(30% + 10px);">International Institute of Information Technology, Hyderabad</span></div>
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ashok Kumar Das <span style="position: absolute; left: calc(30% + 10px);">IIIT Hyderabad</span></div>
     </td>
 </tr>
 <tr>
@@ -180,14 +180,7 @@ function Nav() {
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Francesco Longo <span style="position: absolute; left: calc(30% + 10px);">University of Messina</span></div>
     </td>
 </tr>
-</tr>
-
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Frederico Schardong <span style="position: absolute; left: calc(30% + 10px);">Instituto Federal Do Rio Grande Do Sul</span></div>
-    </td>
-</tr> 
-    
+</tr>  
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Frederico Schardong <span style="position: absolute; left: calc(30% + 10px);">Instituto Federal Do Rio Grande Do Sul</span></div>
@@ -284,11 +277,6 @@ function Nav() {
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Dai <span style="position: absolute; left: calc(30% + 10px);">Worcester Polytechnic Institute</span></div>
     </td>
 </tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Zhao <span style="position: absolute; left: calc(30% + 10px);">Nanyang Technological University</span></div>
-    </td>
-</tr>
 </tr>
 
 <tr>
@@ -324,12 +312,6 @@ function Nav() {
 </tr>
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laizhong Cui <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
-    </td>
-</tr>
-    
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laizhong	Cui <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
     </td>
 </tr>
@@ -354,7 +336,11 @@ function Nav() {
     <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Leonardo Aniello <span style="position: absolute; left: calc(30% + 10px);">University of Southampton</span></div>
 </td>
 </tr>
-    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Liangmin Wang  <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
+    </td>
+</tr>  
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lo-Yao Yeh <span style="position: absolute; left: calc(30% + 10px);">National Central University</span></div>
@@ -386,12 +372,7 @@ function Nav() {
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Murat Yuksel <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
     </td>
 </tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Paulo Henrique Alves <span style="position: absolute; left: calc(30% + 10px);">PUC-Rio - Pontifical Catholic University of Rio de Janeiro</span></div>
-    </td>
-</tr>
-    
+
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Paulo Henrique Alves <span style="position: absolute; left: calc(30% + 10px);">PUC-Rio - Pontifical Catholic University of Rio de Janeiro</span></div>
@@ -400,7 +381,7 @@ function Nav() {
     
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Pedro Augusto Da Silva E Souza Miranda <span style="position: absolute; left: calc(30% + 10px);">University of Waterloo</span></div>
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Pedro Miranda <span style="position: absolute; left: calc(30% + 10px);">University of Waterloo</span></div>
     </td>
 </tr>
 <tr>
@@ -424,12 +405,6 @@ function Nav() {
     </td>
 </tr>
 <tr>
-<td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Runchao Han <span style="position: absolute; left: calc(30% + 10px);">BabylonChain</span></div>
-</td>
-</tr>
-    
-<tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Runchao Han <span style="position: absolute; left: calc(30% + 10px);">BabylonChain</span></div>
     </td>
@@ -442,15 +417,10 @@ function Nav() {
 </tr>
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shaileshh Bojja Venkatakrishnan <span style="position: absolute; left: calc(30% + 10px);">The Ohio State University</span></div>
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">SB Venkatakrishnan <span style="position: absolute; left: calc(30% + 10px);">The Ohio State University</span></div>
     </td>
 </tr>
     
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shaileshh Bojja Venkatakrishnan <span style="position: absolute; left: calc(30% + 10px);">The Ohio State University</span></div>
-    </td>
-</tr>
     
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
@@ -487,28 +457,13 @@ function Nav() {
     <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Thomas Thiery <span style="position: absolute; left: calc(30% + 10px);">Ethereum Foundation</span></div>
 </td>
 </tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tim Weingärtner <span style="position: absolute; left: calc(30% + 10px);">Lucerne University of Applied Sciences and Arts</span></div>
-    </td>
-</tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Wang Liangmin <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
-    </td>
-</tr>
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tim	Weingärtner <span style="position: absolute; left: calc(30% + 10px);">Lucerne University of Applied Sciences and Arts</span></div>
     </td>
 </tr>
-
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Wang	Liangmin <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
-    </td>
-</tr>    
+  
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
@@ -535,12 +490,7 @@ function Nav() {
     <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xihan Xiong <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
 </td>
 </tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xin Wan <span style="position: absolute; left: calc(30% + 10px);">Uniswap Labs</span></div>
-    </td>
-</tr>
-    
+
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xin Wan <span style="position: absolute; left: calc(30% + 10px);">Uniswap Labs</span></div>
@@ -568,10 +518,7 @@ function Nav() {
       <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yingjie Xue <span style="position: absolute; left: calc(30% + 10px);">HKUST(Guangzhou)</span></div>
     </td>
 </tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;"><div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yingjiu Li <span style="position: absolute; left: calc(30% + 10px);">University of Oregon</span></div>
-</td>
-</tr>
+
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yizhong Liu <span style="position: absolute; left: calc(30% + 10px);">Beihang University</span></div>
@@ -583,11 +530,6 @@ function Nav() {
     </td>
 </tr>
 
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youakim Badr <span style="position: absolute; left: calc(30% + 10px);">Pennsylvania State University at Great Valley</span></div>
-    </td>
-</tr>
     
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
@@ -600,11 +542,6 @@ function Nav() {
     </td>
 </tr>
 
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuan Lu <span style="position: absolute; left: calc(30% + 10px);">New Jersey Institute of Technolgoy</span></div>
-    </td>
-</tr>
     
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
@@ -641,10 +578,7 @@ function Nav() {
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhiguo Wan <span style="position: absolute; left: calc(30% + 10px);">Zhejiang Lab, Hangzhou, Zhejiang</span></div>
     </td>
 </tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;"><div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhipeng Gao <span style="position: absolute; left: calc(30% + 10px);">Beijing Univ. of Posts and Telecom.</span></div>
-</td>
-</tr>
+
 <tr>
     <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
         <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhipeng Wang <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
