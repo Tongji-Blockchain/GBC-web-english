@@ -16,7 +16,14 @@ function Nav() {
 }
 
 </script>
-
+<style>
+    @media screen and (max-width: 768px) {
+    /* 设置手机上的文字大小 */
+    .responsive-font {
+        font-size: 16px; /* 根据需要调整大小 */
+    }
+}
+</style>
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
 
     <div style="flex: 5;">
@@ -38,555 +45,872 @@ function Nav() {
 <table style="border-collapse: collapse; width: 100%;">
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Abderrahim Benslimane <span style="position: absolute; left: calc(30% + 10px);">University of Avignon</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Abderrahim Benslimane</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Avignon</div>
+    </td>
+</tr>
+
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;white-space: normal; overflow-wrap: break-word;">Aiman Erbad </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hamad Bin Khalifa University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Aiman Erbad <span style="position: absolute; left: calc(30% + 10px);">Hamad Bin Khalifa University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Alessandra Scafuro </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">North Carolina State University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Alessandra Scafuro <span style="position: absolute; left: calc(30% + 10px);">North Carolina State University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Alessandro Aldini </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Urbino</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Alessandro Aldini <span style="position: absolute; left: calc(30% + 10px);">University of Urbino</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Alysson Bessani </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Lisbona</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Alysson Bessani <span style="position: absolute; left: calc(30% + 10px);">University of Lisbona</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Andreas Veneris </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Toronto</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Andreas Veneris <span style="position: absolute; left: calc(30% + 10px);">University of Toronto</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Angelo De Caro </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">IBM Research Zurich</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Angelo De Caro <span style="position: absolute; left: calc(30% + 10px);">IBM Research Zurich</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Aniket Kate </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Purdue University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Aniket Kate <span style="position: absolute; left: calc(30% + 10px);">Purdue University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ashok Kumar Das </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">IIIT Hyderabad</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ashok Kumar Das <span style="position: absolute; left: calc(30% + 10px);">IIIT Hyderabad</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Athanasios V. Vasilakos </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lulea University of Technology</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Athanasios V. Vasilakos <span style="position: absolute; left: calc(30% + 10px);">Lulea University of Technology</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Athman Bouguettaya </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Sydney</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Athman Bouguettaya <span style="position: absolute; left: calc(30% + 10px);">University of Sydney</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Axel Küpper </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">TU Berlin</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Axel Küpper <span style="position: absolute; left: calc(30% + 10px);">TU Berlin</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Bill Buchanan </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Edinburgh Napier University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Bill Buchanan <span style="position: absolute; left: calc(30% + 10px);">Edinburgh Napier University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Chase Wu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">New Jersey Institute of Technology</span></div    </td>
+</tr>
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Chengnian Long </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shanghai Jiao Tong University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Chase Wu <span style="position: absolute; left: calc(30% + 10px);">New Jersey Institute of Technology</span></div    </td>
-</tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Chengnian Long <span style="position: absolute; left: calc(30% + 10px);">Shanghai Jiao Tong University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Christopher Kruegel </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of California, Santa Barbara</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Christopher Kruegel <span style="position: absolute; left: calc(30% + 10px);">University of California, Santa Barbara</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Daehun Nyang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ewha Womans University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Daehun Nyang <span style="position: absolute; left: calc(30% + 10px);">Ewha Womans University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Danda Rawat </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Howard University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Danda Rawat <span style="position: absolute; left: calc(30% + 10px);">Howard University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">David Mohaisen </div>
     </td>
-</tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">David Mohaisen <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Central Florida</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">David Wei <span style="position: absolute; left: calc(30% + 10px);">Fordham University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">David Wei </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fordham University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Eirini Eleni Tsiropoulou <span style="position: absolute; left: calc(30% + 10px);">University of New Mexico</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Eirini Eleni Tsiropoulou </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of New Mexico</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Evangelos Pournaras <span style="position: absolute; left: calc(30% + 10px);">University of Leeds</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Evangelos Pournaras </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Leeds</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fehmi Jaafar <span style="position: absolute; left: calc(30% + 10px);">Quebec University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fehmi Jaafar </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Quebec University</div>
     </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fei	Chen <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fei	Chen </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shenzhen University</div>
     </td>
 </tr>
     <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fehmi Jaafar <span style="position: absolute; left: calc(30% + 10px);">Quebec University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fehmi Jaafar </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Quebec University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fei Chen <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fei Chen </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shenzhen University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Filip Rezabek <span style="position: absolute; left: calc(30% + 10px);">Technical University of Munich</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Filip Rezabek </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Technical University of Munich</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Francesco Longo <span style="position: absolute; left: calc(30% + 10px);">University of Messina</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Francesco Longo </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Messina</div>
     </td>
 </tr>
 </tr>  
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Frederico Schardong <span style="position: absolute; left: calc(30% + 10px);">Instituto Federal Do Rio Grande Do Sul</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Frederico Schardong </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Instituto Federal Do Rio Grande Do Sul</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Gautam Srivastava <span style="position: absolute; left: calc(30% + 10px);">Brandon University</span></    </td>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Gautam Srivastava </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Brandon University</span></    </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">George Drosatos <span style="position: absolute; left: calc(30% + 10px);">Athena Research Center</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">George Drosatos </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Athena Research Center</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Guoming Yang <span style="position: absolute; left: calc(30% + 10px);">Singapore Management University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Guoming Yang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Singapore Management University</div>
     </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Guoming Yang <span style="position: absolute; left: calc(30% + 10px);">Singapore Management University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Guoming Yang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Singapore Management University</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Gyu Myoung Lee <span style="position: absolute; left: calc(30% + 10px);">Liverpool John Moores University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Gyu Myoung Lee </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Liverpool John Moores University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Haiming Jin <span style="position: absolute; left: calc(30% + 10px);">Shanghai Jiao Tong University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Haiming Jin </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shanghai Jiao Tong University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hoang Tam Vo <span style="position: absolute; left: calc(30% + 10px);">RMIT University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hoang Tam Vo </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">RMIT University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hongxin Hu <span style="position: absolute; left: calc(30% + 10px);">University at Buffalo</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hongxin Hu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University at Buffalo</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Houbing Song <span style="position: absolute; left: calc(30% + 10px);">University of Maryland</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Houbing Song </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Maryland</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Imre Kocsis <span style="position: absolute; left: calc(30% + 10px);">Budapest Univ. of Technol. and Econ.</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Imre Kocsis </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Budapest Univ. of Technol. and Econ.</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ivan Homoliak <span style="position: absolute; left: calc(30% + 10px);">Brno University of Technology</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ivan Homoliak </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Brno University of Technology</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">James Kempf <span style="position: absolute; left: calc(30% + 10px);">UCSC Silicon Valley</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">James Kempf </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">UCSC Silicon Valley</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jianan Hong <span style="position: absolute; left: calc(30% + 10px);">Shanghai Jiao Tong University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jianan Hong </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shanghai Jiao Tong University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jianyu Niu <span style="position: absolute; left: calc(30% + 10px);">Southern University of Science and Technology</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jianyu Niu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Southern University of Science and Technology</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jie Yang <span style="position: absolute; left: calc(30% + 10px);">Florida State University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jie Yang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Florida State University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jinguang Han <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jinguang Han </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Southeast University</div>
     </td>
 </tr>
 <tr>
-<td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Joshua Ellul <span style="position: absolute; left: calc(30% + 10px);">University of Malta</span></div>
+<td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Joshua Ellul </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Malta</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Dai <span style="position: absolute; left: calc(30% + 10px);">Worcester Polytechnic Institute</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Dai </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Worcester Polytechnic Institute</div>
     </td>
 </tr>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Zhao <span style="position: absolute; left: calc(30% + 10px);">Nanyang Technological University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Jun Zhao </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Nanyang Technological University</div>
     </td>
 </tr>    
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kai Li <span style="position: absolute; left: calc(30% + 10px);">San Diego State University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kai Li </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">San Diego State University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kaihua Qin <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kaihua Qin </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Imperial College London</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Keke Gai <span style="position: absolute; left: calc(30% + 10px);">Beijing Institute of Technology</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Keke Gai </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Beijing Institute of Technology</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Keping Yu <span style="position: absolute; left: calc(30% + 10px);">Hosei University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Keping Yu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hosei University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kwok-Yan Lam <span style="position: absolute; left: calc(30% + 10px);">Nanyang Technological University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kwok-Yan Lam </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Nanyang Technological University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laizhong	Cui <span style="position: absolute; left: calc(30% + 10px);">Shenzhen University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laizhong	Cui </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shenzhen University</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Latif Ladid <span style="position: absolute; left: calc(30% + 10px);">University of Luxembourg / IPv6 Forum</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Latif Ladid </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Luxembourg / IPv6 Forum</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laura Ricci <span style="position: absolute; left: calc(30% + 10px);">University of Pisa</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Laura Ricci </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Pisa</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lei Yang <span style="position: absolute; left: calc(30% + 10px);">University of Nevada, Reno</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lei Yang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Nevada, Reno</div>
     </td>
 </tr>
 <tr>
-<td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Leonardo Aniello <span style="position: absolute; left: calc(30% + 10px);">University of Southampton</span></div>
+<td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Leonardo Aniello </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Southampton</div>
 </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Liangmin Wang  <span style="position: absolute; left: calc(30% + 10px);">Southeast University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Liangmin Wang  </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Southeast University</div>
     </td>
 </tr>  
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lo-Yao Yeh <span style="position: absolute; left: calc(30% + 10px);">National Central University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lo-Yao Yeh </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">National Central University</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Luca Boldrin <span style="position: absolute; left: calc(30% + 10px);">InfoCert</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Luca Boldrin </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">InfoCert</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lukas Aumayr <span style="position: absolute; left: calc(30% + 10px);">TU Wien</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lukas Aumayr </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">TU Wien</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Martin Maier <span style="position: absolute; left: calc(30% + 10px);">INRS, Canada</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Martin Maier </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">INRS, Canada</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Mohammad Jalalzai <span style="position: absolute; left: calc(30% + 10px);">University of British Columbia</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Mohammad Jalalzai </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of British Columbia</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Murat Yuksel <span style="position: absolute; left: calc(30% + 10px);">University of Central Florida</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Murat Yuksel </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Central Florida</div>
     </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Paulo Henrique Alves <span style="position: absolute; left: calc(30% + 10px);">PUC-Rio - Pontifical Catholic University of Rio de Janeiro</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Paulo Henrique Alves </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">PUC-Rio </div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Pedro Miranda <span style="position: absolute; left: calc(30% + 10px);">University of Waterloo</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Pedro Miranda </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Waterloo</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Peiyao Sheng <span style="position: absolute; left: calc(30% + 10px);">University of Illinois Urbana-Champaign</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Peiyao Sheng </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Illinois Urbana-Champaign</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Qi Xia <span style="position: absolute; left: calc(30% + 10px);">Univ. of Electron. Sci. & Tech. of China</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Qi Xia </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Univ. of Electron. Sci. & Tech. of China</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Qinglin Zhao <span style="position: absolute; left: calc(30% + 10px);">Macau Univ. of Sci. and Tech.</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Qinglin Zhao </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Macau Univ. of Sci. and Tech.</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Rongxing Lu <span style="position: absolute; left: calc(30% + 10px);">University of New Brunswick</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Rongxing Lu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of New Brunswick</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Runchao Han <span style="position: absolute; left: calc(30% + 10px);">BabylonChain</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Runchao Han </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">BabylonChain</div>
     </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Salil Kanhere <span style="position: absolute; left: calc(30% + 10px);">UNSW Sydney</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Salil Kanhere </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">UNSW Sydney</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">SB Venkatakrishnan <span style="position: absolute; left: calc(30% + 10px);">The Ohio State University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">SB Venkatakrishnan </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">The Ohio State University</div>
     </td>
 </tr>
     
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shamik Sural <span style="position: absolute; left: calc(30% + 10px);">IIT Kharagpur</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shamik Sural </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">IIT Kharagpur</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shouling Ji <span style="position: absolute; left: calc(30% + 10px);">Zhejiang University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Shouling Ji </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhejiang University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Stefan Schulte <span style="position: absolute; left: calc(30% + 10px);">Hamburg University of Technology</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Stefan Schulte </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Hamburg University of Technology</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Stefan Tai <span style="position: absolute; left: calc(30% + 10px);">TU Berlin</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Stefan Tai </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">TU Berlin</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Taeho Jung <span style="position: absolute; left: calc(30% + 10px);">University of Notre Dame</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Taeho Jung </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Notre Dame</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tao Xiang <span style="position: absolute; left: calc(30% + 10px);">Chongqing University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tao Xiang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Chongqing University</div>
     </td>
 </tr>
 <tr>
-<td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Thomas Thiery <span style="position: absolute; left: calc(30% + 10px);">Ethereum Foundation</span></div>
+<td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Thomas Thiery </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ethereum Foundation</div>
 </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tim	Weingärtner <span style="position: absolute; left: calc(30% + 10px);">Lucerne University of Applied Sciences and Arts</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Tim	Weingärtner </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Lucerne University of Applied Sciences and Arts</div>
     </td>
 </tr>
   
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Wazen Shbair <span style="position: absolute; left: calc(30% + 10px);">VNX</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Wazen Shbair </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">VNX</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Weidong Shi <span style="position: absolute; left: calc(30% + 10px);">University of Houston</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Weidong Shi </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Houston</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Weizhi Meng <span style="position: absolute; left: calc(30% + 10px);">Technical University of Denmark</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Weizhi Meng </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Technical University of Denmark</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xiaoguang Liu <span style="position: absolute; left: calc(30% + 10px);">Nankai University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xiaoguang Liu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Nankai University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xihan Xiong <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xihan Xiong </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Imperial College London</div>
 </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xin Wan <span style="position: absolute; left: calc(30% + 10px);">Uniswap Labs</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xin Wan </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Uniswap Labs</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xingliang Yuan <span style="position: absolute; left: calc(30% + 10px);">University of Melbourne</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xingliang Yuan </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Melbourne</div>
     </td>
 </tr>
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xun Yi <span style="position: absolute; left: calc(30% + 10px);">RMIT University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Xun Yi </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">RMIT University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ye Wang <span style="position: absolute; left: calc(30% + 10px);">University of Macau</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Ye Wang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">University of Macau</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yingjie Xue <span style="position: absolute; left: calc(30% + 10px);">HKUST(Guangzhou)</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+      <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yingjie Xue </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">HKUST(Guangzhou)</div>
     </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yizhong Liu <span style="position: absolute; left: calc(30% + 10px);">Beihang University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yizhong Liu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Beihang University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youakim Badr <span style="position: absolute; left: calc(30% + 10px);">Pennsylvania State University at Great Valley</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youakim Badr </div>
     </td>
-</tr>
-
-    
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youngho Park <span style="position: absolute; left: calc(30% + 10px);">Kyungpook National University</span></div>
-    </td>
-</tr>
-<tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youwen Zhu <span style="position: absolute; left: calc(30% + 10px);">Nanjing Univ. of Aeronaut. & Astronaut.</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Pennsylvania State University at Great Valley</div>
     </td>
 </tr>
 
     
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuan Lu <span style="position: absolute; left: calc(30% + 10px);">New Jersey Institute of Technolgoy</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youngho Park </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Kyungpook National University</div>
     </td>
 </tr>
 <tr>
-<td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuanyuan Yang <span style="position: absolute; left: calc(30% + 10px);">Stony Brook University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Youwen Zhu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Nanjing Univ. of Aeronaut. & Astronaut.</div>
+    </td>
+</tr>
+
+    
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuan Lu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">New Jersey Institute of Technolgoy</div>
+    </td>
+</tr>
+<tr>
+<td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+    <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuanyuan Yang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Stony Brook University</div>
 </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yujin Potter <span style="position: absolute; left: calc(30% + 10px);">UC Berkeley</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yujin Potter </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">UC Berkeley</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yukun Cheng <span style="position: absolute; left: calc(30% + 10px);">Suzhou Univ. of Sci. and Tech.y</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yukun Cheng </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Suzhou Univ. of Sci. and Tech.y</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuzhe Tang <span style="position: absolute; left: calc(30% + 10px);">Syracuse University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Yuzhe Tang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Syracuse University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zakirul Alam Bhuiyan <span style="position: absolute; left: calc(30% + 10px);">Fordham University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zakirul Alam Bhuiyan </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Fordham University</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhiguo Wan <span style="position: absolute; left: calc(30% + 10px);">Zhejiang Lab, Hangzhou, Zhejiang</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhiguo Wan </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhejiang Lab, Hangzhou, Zhejiang</div>
     </td>
 </tr>
 
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhipeng Wang <span style="position: absolute; left: calc(30% + 10px);">Imperial College London</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhipeng Wang </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Imperial College London</div>
     </td>
 </tr>
 <tr>
-    <td style="border: 0.3vw solid #dddddd; padding: 8px; word-wrap: break-word;">
-        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhonghai Wu <span style="position: absolute; left: calc(30% + 10px);">Peking University</span></div>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Zhonghai Wu </div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div class="responsive-font" style="font-size: 1.3vw; color: #191970; position: relative; line-height: 1.5;">Peking University</div>
     </td>
 </tr>
 
