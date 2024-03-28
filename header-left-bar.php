@@ -136,7 +136,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o fa-fw" aria-hidden="true"></i>AUTHORS</a></li>
 
-					<li name="hotel"><a href="technical-program.php"><i class="fa fa-lg fa-tasks fa-fw" aria-hidden="true"></i>PROGRAM</a></li>
+					<li name="hotel"><a href="program.php"><i class="fa fa-lg fa-tasks fa-fw" aria-hidden="true"></i>PROGRAM</a></li>
 
 					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in fa-fw" aria-hidden="true"></i>REGISTRATION</a></li>
 

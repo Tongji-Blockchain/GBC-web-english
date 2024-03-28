@@ -1,16 +1,17 @@
 <?php 
-$pageTitle='Program'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='Day 2'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/authors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
+
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "380px") {
+    if (nav.style.height === "420px") {
         nav.style.height = "0";
     } else {
-        nav.style.height = "380px";
+        nav.style.height = "420px";
     }
 }
 
@@ -35,7 +36,7 @@ function Nav() {
             <a href="Day3.php" style="margin-left: 2%;"> Day3</a> 
 			
             <a href="IndustryPanels.php" style="margin-left: 2%;">Industry Panels</a> 
-			
+			<a href="Workshops.php" style="margin-left: 2%;">Workshops</a> 
             <a href="Tutorials" style="margin-left: 2%;">Tutorials</a> 
 			
             <a href="StudentCareerFairB" style="margin-left: 2%;">Student Career FairB</a> 
@@ -45,8 +46,8 @@ function Nav() {
 </div>
 
 
-Detailed programs will be released soon.
-
+Stay tuned
+<!--Detailed programs will be released soon.-->
 
 <div style="height:50px;"></div>
 

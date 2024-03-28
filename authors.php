@@ -29,9 +29,9 @@ function Nav() {
 			
             <a href="IFSOSPapers.php" style="margin-left: 2%;">Instructions for Submission of Symposium Papers</a> 
 			
-            <a href="PCFSPapers.php" style="margin-left: 2%;">Past Call for Symposium Papers</a> 
+			<a href="Callforworkshoppapers.php" style="margin-left: 2%;">Call for Workshop Papers</a>
 			
-            <a href="Callforworkshoppapers.php" style="margin-left: 2%;">Call For Workshop Papers</a> 
+            <a href="CallforWorkshopProposals.php" style="margin-left: 2%;"> Call for Workshop Proposals</a> 
             
             <a href="CallforTutorialProposals.php" style="margin-left: 2%;">Call for Tutorial Proposals</a> 
 			
