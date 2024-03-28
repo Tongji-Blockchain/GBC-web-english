@@ -68,14 +68,14 @@ function Nav() {
         <br><br>
         <h1>IMPORTANT DATES</h1>
         <div style=" font-size: 20px;line-height: 1.5; text-align:justify;">  Paper submission: <span style="color: #4512d2;">1 Feb, 2024</span></div>
-        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Notification of acceptance: <span style="color: #4512d2;">1 July, 2024</span></div>
+        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Notification of acceptance: <span style="color: #4512d2;">1 June, 2024</span></div>
         <div style="font-size: 20px; line-height: 1.5; text-align: justify;">  Camera-ready submission: <span style="color: #4512d2;">7 August, 2024</span></div>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Presentation submission: <span style="color: #4512d2;">14 August, 2024</span></div>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  All papers must be submitted through EDAS (submission starts 20 April).</div>
 		
         <br><br>
         <h1>WORKSHOPS</h1>
-        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;"> WS-01: <a href="resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf"><span style="color: #4512d2;">Blockchain-And-Policy</span></a></div>
+        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;"> WS-01: <a href="resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf"><span style="color: #4512d2;">Proposal-GBC-Workshop-BlockchainPolicy</span></a></div>
 
 
 	</div>

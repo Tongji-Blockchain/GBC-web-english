@@ -54,9 +54,9 @@ function Nav() {
         <br><br>
         <h1>Submission Deadlines</h1>
         <div style=" font-size: 20px;line-height: 1.5; text-align:justify;">Workshop Proposal: <span style="color: #4512d2;">20 Apr, 2024</span></div>
-        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">Notification of acceptance: <span style="color: #4512d2;">1 July, 2024</span></div>
+        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">Notification of acceptance: <span style="color: #4512d2;">1 June, 2024</span></div>
         <br><br>
-        <div style=" font-size: 24px;line-height: 1.5; text-align:justify;color: #191970;font-weight: bold;">To propose a Workshop for lEEE WF-loT2024, adhere to the following guidelines:</div>
+        <div style=" font-size: 24px;line-height: 1.5; text-align:justify;color: #191970;font-weight: bold;">To propose a Workshop for lEEE GBC 2024, adhere to the following guidelines:</div>
         <br><br>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;"> <span style="font-weight: bold;">1. Prepare Your Proposal:</span>Gather all requisite information needed for submission, encompassing details about yourself as the Workshop Organizer (Chair), any co-organizers, and the workshop content.Names, affiliations, locations, and contact information
 
