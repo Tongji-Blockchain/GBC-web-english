@@ -18,6 +18,9 @@
 	 							if($dates[$i]['showInNavBar']){
 	 								echo '<li>
 										<div class="title">'.$dates[$i]['title'].'</div>
+										if (!empty($dates[$i]['olddate'])) {
+									        	echo '<div class="olddate" style="color: grey;text-decoration: underline;">Previous: '.$dates[$i]['olddate'].'</div>';
+									        }
 										<div class="date"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i> 
 											'.$dates[$i]['date'].'</div>
 									</li>';
