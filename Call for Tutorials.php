@@ -19,11 +19,11 @@ function Nav() {
         <button class="small-button" onclick="Nav()">Authors<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
-            <a href="Authors.php" style="margin-left: 2%;">Authors</a> <!-- 使用百分比单位 -->
+            <a href="authors.php" style="margin-left: 2%;">Authors</a> <!-- 使用百分比单位 -->
             <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
             <a href="Call for Tutorials.php" style="margin-left: 2%;">Call for Tutorials</a> <!-- 使用百分比单位 -->
             <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
-            <a href="workshopchairs.php" style="margin-left: 2%;">Call for workshop papers</a> <!-- 使用百分比单位 -->
+            <a href="Callforworkshoppapers.php" style="margin-left: 2%;">Call for workshop papers</a> <!-- 使用百分比单位 -->
         </div>
     </div>
 </div>
