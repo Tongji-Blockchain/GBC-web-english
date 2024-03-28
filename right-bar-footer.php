@@ -17,12 +17,9 @@
 	 						for ($i = 0; $i < count($dates); $i++) {
 	 							if($dates[$i]['showInNavBar']){
 	 								echo '<li>
-										<div class="title">'.$dates[$i]['title'].'</div>;
-	  									if (!empty($dates[$i]['olddate'])) {
-									        	echo '<div class="olddate" style="color: grey;text-decoration: underline;">'.$dates[$i]['olddate'].'</div>';
-									        }
-									echo '<div class="date"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i> 
-										'.$dates[$i]['date'].'</div>
+										<div class="title">'.$dates[$i]['title'].'</div>
+										<div class="date"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i> 
+											'.$dates[$i]['date'].'</div>
 									</li>';
 	 							}
 							} 
