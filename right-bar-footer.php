@@ -15,16 +15,20 @@
 	 						//Print out all the deadlines from the config file
 	 						$dates = $json['dates'];
 	 						for ($i = 0; $i < count($dates); $i++) {
-	 							if($dates[$i]['showInNavBar']){
-	 								echo '<li>
-										<div class="title">'.$dates[$i]['title'].'</div>
-										<div class="date"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i> 
-											'.$dates[$i]['date'].'</div>
+								if($dates[$i]['showInNavBar']){
+									echo '<li>
+									<div class="title">'.$dates[$i]['title'].'</div>';
+									// Check if olddate exists and display it with underline
+									if (!empty($dates[$i]['olddate'])) {
+										echo '<div class="olddate" style="color: grey; text-decoration: line-through;">'.$dates[$i]['olddate'].'</div>';
+									}
+									echo '<div class="date"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i> 
+											'.$dates[$i]['date'].'
+	   								</div>
 									</li>';
-	 							}
+								}
 							} 
-
-	 					?>
+						?>
 	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="https://edas.info/newPaper.php?c=32098">Submissions now open</a></li>
 					</ul>
 				</div>
@@ -125,3 +129,4 @@
 
  </body>
  </html>
+
