@@ -6,27 +6,42 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "150px") {
+    if (nav.style.height === "300px") {
         nav.style.height = "0";
     } else {
-        nav.style.height = "150px";
+        nav.style.height = "300px";
     }
 }
 </script>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0%; margin-bottom: 5%;">
-    <div style="flex: 5;">
+<div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
+
+
+	<div style="flex: 5;">
         <button class="small-button" onclick="Nav()">Authors<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
-        <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
-            <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
-            <a href="authors.php" style="margin-left: 2%;">Authors</a> <!-- 使用百分比单位 -->
-            <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
-            <a href="Call for Tutorials.php" style="margin-left: 2%;">Call for Tutorials</a> <!-- 使用百分比单位 -->
-            <div class="spacer" style="height: 5px;"></div> <!-- 使用百分比单位 -->
-            <a href="Callforworkshoppapers.php" style="margin-left: 2%;">Call for workshop papers</a> <!-- 使用百分比单位 -->
+        <div id="navContainer" style="line-height: 1;height:0; overflow: hidden; transition: 0.5s;">
+            
+            <a href="authors.php" style="margin-left: 2%;">Authors</a> 
+			
+            <a href="InstructionsforFinalPaperUpload.php" style="margin-left: 2%;">Instructions for Final Paper Upload</a> 
+			
+            <a href="IFSOSPapers.php" style="margin-left: 2%;">Instructions for Submission of Symposium Papers</a> 
+			
+            <a href="PCFSPapers.php" style="margin-left: 2%;">Past Call for Symposium Papers</a> 
+			
+            <a href="Callforworkshoppapers.php" style="margin-left: 2%;">Call For Workshop Papers</a> 
+            
+            <a href="CallforTutorialProposals.php" style="margin-left: 2%;">Call for Tutorial Proposals</a> 
+			
+            <a href="IndustryProgram.php" style="margin-left: 2%;">Industry Program</a> 
+			
+            <a href="PanelProposals.php" style="margin-left: 2%;">Call for Panel Proposals</a> 
+			
+            <a href="PanelsGuidelines.php" style="margin-left: 2%;">Panels Guidelines</a> 
         </div>
     </div>
 </div>
+
 
 
 <div class="flex flex-auto" style="padding-top: 1%">
@@ -57,7 +72,13 @@ function Nav() {
 			
 		</ul>
 
-
+        <br><br>
+        <h1>IMPORTANT DATES</h1>
+        <div style=" font-size: 20px;line-height: 1.5; text-align:justify;">  Paper submission: <span style="color: blue;">31st May</span></div>
+        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Notification of acceptance: <span style="color: blue;">1st August </span></div>
+        <div style="font-size: 20px; line-height: 1.5; text-align: justify;">Camera-ready submission: <span style="color: blue;">tbc</span></div>
+        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Presentation submission: <span style="color: blue;">tbc</span></div>
+		
         <br><br>
         <h1>WORKSHOPS</h1>
         <div style="font-size: 20px; line-height: 1.5;  text-align: justify;">
@@ -68,13 +89,7 @@ function Nav() {
     <a href="http://www.ieee-gbc.org/authors.php" style="color: blue; text-decoration: underline;" target="_blank">https://conferences.ieeeauthorcenter.ieee.org/write-your-paper/authoring-tools-and-templates/</a>.
 </div>
         <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px; text-align: justify;">Authors of accepted papers will need to provide a final version of your paper in PDF format and upload it by the camera-ready deadline and complete the assignment of copyright and release form. For your paper to be included in the proceedings and published in IEEE Xplore, at least one author is required to register for GBC 2023 by the deadline. Authors will be given the choice to submit an enhanced version of their paper for publication in Ledger. Ledger is published by the University of Pittsburgh Press, and it has a CiteScore of 5.7 and acceptance rate of 19% in 2022.</div>
-        <br><br>
-        <h1>IMPORTANT DATES</h1>
-        <div style=" font-size: 20px;line-height: 1.5; text-align:justify;">  Paper submission: <span style="color: blue;">31st May</span></div>
-        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Notification of acceptance: <span style="color: blue;">1st August </span></div>
-        <div style="font-size: 20px; line-height: 1.5; text-align: justify;">Camera-ready submission: <span style="color: blue;">tbc</span></div>
-        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Presentation submission: <span style="color: blue;">tbc</span></div>
-		<br><br>
+        
 
 	</div>
 </div>
