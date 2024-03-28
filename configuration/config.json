@@ -33,22 +33,25 @@
 		},
 		{
 			"title":"Submissions Due",
-			"date": "28 March, 2024",
+			"olddate":"28 March, 2024(Extended)",
+			"date": "20 Apr, 2024",
 			"showInNavBar": true
 		},
 		{
 			"title":"Call for Demo Proposals Due",
-			"date": "15 Apr, 2024",
+			"olddate": "15 Apr, 2024(Extended)",
+			"date": "20 Apr, 2024",
 			"showInNavBar": true
 		},
 		{
 			"title":"Call for Panel Proposals Due",
-			"date": "15 Apr, 2024",
+			"olddate": "15 Apr, 2024(Extended)",
+			"date": "20 Apr, 2024",
 			"showInNavBar": true
 		},
 		{
 			"title":"Call for Workshop Proposals Due",
-			"date": "28 Apr, 2024",
+			"date": "20 Apr, 2024",
 			"showInNavBar": true
 		},
 		
