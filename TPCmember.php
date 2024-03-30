@@ -307,16 +307,6 @@ function Nav() {
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Singapore Management University</div>
     </td>
 </tr>
-
-<tr>
-    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
-      <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Guoming Yang </div>
-    </td>
-    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
-        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Singapore Management University</div>
-    </td>
-</tr>
-    
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Gyu Myoung Lee </div>
