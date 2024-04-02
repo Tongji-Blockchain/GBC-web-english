@@ -894,10 +894,10 @@ function Nav() {
 </tr>
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
-      <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Yang Shi </div>
+      <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Yingjiu Li</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
-        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Tongji University</div>
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">University of Oregon</div>
     </td>
 </tr>
 <tr>
@@ -924,8 +924,6 @@ function Nav() {
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Pennsylvania State University at Great Valley</div>
     </td>
 </tr>
-
-    
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Youngho Park </div>
