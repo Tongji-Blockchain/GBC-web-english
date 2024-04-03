@@ -45,10 +45,48 @@ function Nav() {
 </div>
 
 
-Stay tuned
+<h1 style="text-align: center;">PDF Instructions for your Authors</h1> 
+<h1 style="text-align: center;">2024 1EEE Global Blockchain Conference (GBC)</h1>
+<br>
+<h1 style="text-align: center;color:red">Before Creating a PDF</h1>
 
 
+<div style="font-size: 20px; line-height: 1.5; margin-bottom: 10px;">  
+    Add the copyright notice to the bottom of the first page of your source document.   
+    If necessary, contact <strong>Hai Jin</strong> at <strong>hjin@hust.edu.cn</strong> for the appropriate copyright notice.   
+    Add the copyright notice to the bottom of the first page of your source document.   
+    If necessary, contact <strong>Zhihong Tian</strong> at <strong>tianzhihong@gzhu.edu.cn</strong> for the appropriate copyright notice.  
+    Add the copyright notice to the bottom of the first page of your source document.   
+    If necessary, contact <strong>Haibin Kan</strong> at <strong>hbkan@fudan.edu.cn</strong> for the appropriate copyright notice.   
+    Add the copyright notice to the bottom of the first page of your source document.   
+    If necessary, contact <strong>Hao Xu</strong> at <strong>hao.xu@ieee.org</strong> for the appropriate copyright notice.  
+</div>
+<div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">  
+Proofread your source document thoroughly to confirm that it will require no revision. 
+</div>
+<br>
+<h1 style="text-align: center;color:red">Creating your PDF eXpress Account</h1>
+    <br><br>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">Log in to the lEEE PDF eXpress<sup>&trade;</sup>site</div>
+    <br><br>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;"><strong><i>First-time users should do the following:</i></strong>  </div>
+
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Select the New Users - Click Here link  </div>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Enter the following:</div>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>60041X</strong> for the Conference ID</div>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your email address</div>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a password</div>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.Continue to enter information as prompted</div>
+    <div style="font-size: 20px; line-height: 1.5; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;An Online confirmation will be displayed and an email confirmation will be sentverifying your account setup.</div>
 <div style="height:50px;"></div>
+
+
+
+
+
+
+
+
 
 
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>
