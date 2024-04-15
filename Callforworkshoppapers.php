@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Call for workshop papers'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='Workshop'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/authors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -74,7 +74,7 @@ function Nav() {
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  All papers must be submitted through EDAS (submission starts 20 April).</div>
 		
         <br><br>
-        <h1>WORKSHOPS</h1>
+        <h1>ACCEPTED WORKSHOPS</h1>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;"> WS-01: <a href="resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf"><span style="color: #4512d2;">Proposal-GBC-Workshop-BlockchainPolicy</span></a></div>
 
 
