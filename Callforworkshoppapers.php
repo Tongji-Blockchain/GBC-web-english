@@ -75,7 +75,9 @@ function Nav() {
 		
         <br><br>
         <h1>ACCEPTED WORKSHOPS</h1>
-        <div style=" font-size: 20px;line-height: 1.5;text-align:justify;"> WS-01: <a href="resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf"><span style="color: #4512d2;">Proposal-GBC-Workshop-BlockchainPolicy</span></a></div>
+        <div style="font-size: 20px; line-height: 1.5; text-align: justify;">
+    WS-01: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf';">Proposal-GBC-Workshop-BlockchainPolicy</span>
+</div>
 
 
 	</div>
