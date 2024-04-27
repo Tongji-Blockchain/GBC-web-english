@@ -34,13 +34,20 @@ function Nav() {
 		
 		<!--<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;">--><!--虚线分隔符-->
 		
+	<div class="organizer-group-title">General Chair</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/liuerwu.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Erwu Liu</div>
+				<div class="affiliation">Tongji University</div>
+			</div>
+		</div>
 		<div class="organizer-group-title">Advisory Board</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiqiang Wu</div>
-				<div class="role bold">Advisory Board Chair</div>
-				<div class="affiliation">Tongji University</div>
+				<div class="affiliation">Chair, Tongji University</div>
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
@@ -76,6 +83,29 @@ function Nav() {
 
 		
 		<div class="organizer-group-title">Steering Committee</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ramesh Ramadoss</div>
+			<div class="affiliation">Chair, IEEE BCTC</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Gora Datta</div>
+			<div class="affiliation">Vice Chair, IEEE BCTC</div>
+		</div>
+	</div>
+
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/yuanyu.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Yu Yuan</div>
+				<!--<div class="role bold">Steering Committee Chair</div>-->
+				<div class="affiliation">IEEE ISTO MASA</div>
+			</div>
+		</div>
 		<!--<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;">--><!--虚线分隔符-->
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/yizhilin.png);background-size:100px 100px;"></div>
@@ -86,14 +116,15 @@ function Nav() {
 			</div>
 		</div>
 
-	
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/tracks/RobertShorten.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Gora Datta</div>
-			<div class="affiliation">Vice Chair, IEEE BCTC</div>
+			<div class="name">Robert Shorten</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Imperial College London</div>
 		</div>
 	</div>
+		
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/tracks/JianmingZhu.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -116,21 +147,6 @@ function Nav() {
 			<div class="affiliation">W3SA-HK & IEEE BDL</div>
 		</div>
 	</div>
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Ramesh Ramadoss</div>
-			<div class="affiliation">Chair, IEEE BCTC</div>
-		</div>
-	</div>
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RobertShorten.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Robert Shorten</div>
-			<!--<div class="role bold">Volunteer Chair</div>-->
-			<div class="affiliation">Imperial College London</div>
-		</div>
-	</div>
 	
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/tracks/XuemingSi.png);background-size:100px 100px;"></div>
@@ -141,14 +157,7 @@ function Nav() {
 		</div>
 	</div>
 		
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/yuanyu.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Yu Yuan</div>
-				<!--<div class="role bold">Steering Committee Chair</div>-->
-				<div class="affiliation">IEEE ISTO MASA</div>
-			</div>
-		</div>
+	
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/tracks/ZhongChen.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -158,14 +167,6 @@ function Nav() {
 		</div>
 	</div>
 
-	<div class="organizer-group-title">General Chair</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/liuerwu.jpg);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Erwu Liu</div>
-				<div class="affiliation">Tongji University</div>
-			</div>
-		</div>
 
 		<div class="spacer"></div>
 
