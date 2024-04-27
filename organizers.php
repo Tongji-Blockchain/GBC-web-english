@@ -36,7 +36,7 @@ function Nav() {
 		
 	<div class="organizer-group-title">General Chair</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/liuerwu.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/liuerwu.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Erwu Liu</div>
 				<div class="affiliation">Tongji University</div>
@@ -84,7 +84,7 @@ function Nav() {
 		
 		<div class="organizer-group-title">Steering Committee</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/RameshRamadoss.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Ramesh Ramadoss</div>
 			<div class="affiliation">Chair, IEEE BCTC</div>
@@ -117,7 +117,7 @@ function Nav() {
 		</div>
 
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RobertShorten.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/RobertShorten.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Robert Shorten</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -126,7 +126,7 @@ function Nav() {
 	</div>
 		
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/JianmingZhu.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images//organizers/JianmingZhu.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Jianming Zhu</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -159,7 +159,7 @@ function Nav() {
 		
 	
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/ZhongChen.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/ZhongChen.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Zhong Chen</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -220,7 +220,7 @@ function Nav() {
 	<div class="spacer"></div>
 		<div class="organizer-group-title">Publicity Co-Chair</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/JiaqiYan.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/JiaqiYan.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Jiaqi Yan</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -228,7 +228,7 @@ function Nav() {
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/QianhongWu.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Qianhong Wu</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -236,7 +236,7 @@ function Nav() {
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/XiaoshuaiZhang.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/XiaoshuaiZhang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Xiaoshuai Zhang</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -244,7 +244,7 @@ function Nav() {
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/YaoSun.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/YaoSun.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yao Sun</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -253,7 +253,7 @@ function Nav() {
 		</div>
 		
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/YiSun.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/YiSun.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yi Sun</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -274,7 +274,7 @@ function Nav() {
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Haibin Kan</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -282,7 +282,7 @@ function Nav() {
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhihong Tian</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -294,7 +294,7 @@ function Nav() {
 		<div class="organizer-group-title">Award Chair</div>
 		
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/XiaosongZhang.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/XiaosongZhang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Xiaosong Zhang</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -306,7 +306,7 @@ function Nav() {
 		<div class="organizer-group-title">Tutorial Chair</div>
 		
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/YanZhang.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/YanZhang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yan Zhang</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
@@ -316,7 +316,7 @@ function Nav() {
 		<div class="organizer-group-title">Workshop Chair</div>
 		
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/BinCao.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/BinCao.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Bin Cao</div>
 				<div class="affiliation">Beijing University of Posts and Telecommunications</div>
@@ -330,21 +330,21 @@ function Nav() {
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/HamedAhmadi.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/HamedAhmadi.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Hamed Ahmadi</div>
 				<div class="affiliation">University of York</div>
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/JiahengWang.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/JiahengWang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Jiaheng Wang</div>
 				<div class="affiliation">Southeast University</div>
 			</div>
 		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/ShengliZhang.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/ShengliZhang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Shengli Zhang</div>
 				<div class="affiliation">Shenzhen University</div>
@@ -353,7 +353,7 @@ function Nav() {
 		
 		<div class="organizer-group-title">Volunteer</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Rui Wang</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -363,7 +363,7 @@ function Nav() {
     
 
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name"> Xiao Wu</div>
 			<div class="affiliation">Ethereum Riyadh Community</div>
@@ -372,7 +372,7 @@ function Nav() {
 		
 		<div class="organizer-group-title">Coordinator & TPC Vice chair for EDAS</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/HaoXu.jpg);background-size:100px 100px;"></div>
+			<div class="pic headshot round" style="background:url(images/organizers/HaoXu.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Hao Xu</div>
 				<!--<div class="role bold">Coordinator & TPe Vice chair for EDAS</div>-->

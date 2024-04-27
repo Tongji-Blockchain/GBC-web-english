@@ -120,10 +120,10 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 		
 	<div id="content-container" class="flex flex-auto flex-space-between">
 			<div id=left-bar-container class="flex flex-auto col-2">
-				<ul class="left-bar list-reset" style="">
+				<ul class="left-bar list-reset" >
 
 
-					<div class="close-header"><a href="#" style="color:white;width:0;height:0;border-top:40px border-bottom: 40px solid transparent;border-left: 40px solid #191970;"><i class="fa fa-2x fa-arrow-circle-left" aria-hidden="true"></i></a></div>
+					<div class="close-header"><a href="#" style="color:white;width:0;height:0;border-top:40px; border-bottom: 40px solid transparent;border-left: 40px solid #191970; "><i class="fa fa-2x fa-arrow-circle-left" aria-hidden="true"></i></a></div>
 				
 				
 					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home fa-fw" aria-hidden="true"></i>HOME</a></li>

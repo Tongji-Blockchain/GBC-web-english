@@ -47,7 +47,7 @@ function Nav() {
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/JianmingZhu.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/JianmingZhu.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Jianming Zhu</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -69,14 +69,14 @@ function Nav() {
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/RameshRamadoss.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Ramesh Ramadoss</div>
 			<div class="affiliation">Chair, IEEE BCTC</div>
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/RobertShorten.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/RobertShorten.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Robert Shorten</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -102,7 +102,7 @@ function Nav() {
 			</div>
 		</div>
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/ZhongChen.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/ZhongChen.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Zhong Chen</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
