@@ -36,6 +36,24 @@ function Nav() {
 		
 		<div class="organizer-group-title">Advisory Board</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhiqiang Wu</div>
+				<div class="role bold">Advisory Board Chair</div>
+				<div class="affiliation">Tongji University</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/zhengzhiming.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhiming Zheng</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
+				<!--<div class="role bold">Honorary Chair</div>-->
+				<div class="affiliation">Beihang University</div>
+			</div>
+		</div>
+
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/jiangchangjun.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Changjun Jiang</div>
@@ -54,26 +72,9 @@ function Nav() {
 				<div class="affiliation">Zhejiang University</div>
 			</div>
 		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/zhengzhiming.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Zhiming Zheng</div>
-				<!--<div class="role bold">Advisory Board Chair</div>-->
-				<!--<div class="role bold">Honorary Chair</div>-->
-				<div class="affiliation">Beihang University</div>
-			</div>
-		</div>
+		
 
-
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Zhiqiang Wu</div>
-				<!--<div class="role bold">Advisory Board Chair</div>-->
-				<div class="affiliation">Tongji University</div>
-			</div>
-		</div>
-
+		
 		<div class="organizer-group-title">Steering Committee</div>
 		<!--<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;">--><!--虚线分隔符-->
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
