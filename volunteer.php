@@ -34,7 +34,7 @@ function Nav() {
 		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Rui Wang</div>
-			<div class="role bold">Volunteer Chair</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
 			<div class="affiliation">Tongji University</div>
 		</div>
 	</div>

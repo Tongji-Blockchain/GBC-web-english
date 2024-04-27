@@ -34,12 +34,12 @@ function Nav() {
 		
 		<!--<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;">--><!--虚线分隔符-->
 		
-		
+		<div class="organizer-group-title">Advisory Board</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/jiangchangjun.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Changjun Jiang</div>
-				<div class="role bold">Advisory Board Chair</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
 				<!--<div class="role bold">Honorary Chair</div>-->
 				<div class="affiliation">Tongji University</div>
 			</div>
@@ -49,7 +49,7 @@ function Nav() {
 			<div class="pic headshot round" style="background:url(images/organizers/chunchen.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Chun Chen</div>
-				<div class="role bold">Advisory Board Chair</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
 				<!--<div class="role bold">Honorary Chair</div>-->
 				<div class="affiliation">Zhejiang University</div>
 			</div>
@@ -58,7 +58,7 @@ function Nav() {
 			<div class="pic headshot round" style="background:url(images/organizers/zhengzhiming.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiming Zheng</div>
-				<div class="role bold">Advisory Board Chair</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
 				<!--<div class="role bold">Honorary Chair</div>-->
 				<div class="affiliation">Beihang University</div>
 			</div>
@@ -69,101 +69,103 @@ function Nav() {
 			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiqiang Wu</div>
-				<div class="role bold">Advisory Board Chair</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
 				<div class="affiliation">Tongji University</div>
 			</div>
 		</div>
-		<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;"><!--虚线分隔符-->
+
+		<div class="organizer-group-title">Steering Committee</div>
+		<!--<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;">--><!--虚线分隔符-->
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/yizhilin.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Chih-Lin I</div>
-				<div class="role bold">Steering Committee Chair</div>
+				<!--<div class="role bold">Steering Committee Chair</div>-->
 				<div class="affiliation">China Mobile</div>
 			</div>
 		</div>
 
-		
+	
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Gora Datta</div>
+			<div class="affiliation">Vice Chair, IEEE BCTC</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/JianmingZhu.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Jianming Zhu</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Central University of Finance and Economics</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/KaiWei.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Kai Wei</div>
+			<div class="affiliation">China Academy of Inf.  and Commun. Tech.</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/MingLi.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ming Li</div>
+			<div class="affiliation">W3SA-HK & IEEE BDL</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/RameshRamadoss.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ramesh Ramadoss</div>
+			<div class="affiliation">Chair, IEEE BCTC</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/RobertShorten.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Robert Shorten</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Imperial College London</div>
+		</div>
+	</div>
+	
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/XuemingSi.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Xueming Si</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Fudan University</div>
+		</div>
+	</div>
+		
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/yuanyu.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Yu Yuan</div>
-				<div class="role bold">Steering Committee Chair</div>
+				<!--<div class="role bold">Steering Committee Chair</div>-->
 				<div class="affiliation">IEEE ISTO MASA</div>
 			</div>
 		</div>
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/ZhongChen.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Zhong Chen</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Peking University</div>
+		</div>
+	</div>
 
-		<hr style="border: none; border-top: 1px dashed #191970; margin-top: 20px; margin-bottom: 20px;margin-right: 65%; text-align: left;"><!--虚线分隔符-->
+	<div class="organizer-group-title">General Chair</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/liuerwu.jpg);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Erwu Liu</div>
-				<div class="role bold">General Chair</div>
 				<div class="affiliation">Tongji University</div>
 			</div>
 		</div>
 
-		
-	<div class="spacer"></div>
-		<div class="organizer-group-title">Publication Co-Chair</div>
-		
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/HaiJin.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Hai Jin</div>
-				<div class="role bold">IEEE Fellow</div>
-				<div class="affiliation">Huazhong University of Science and Technology</div>
-			</div>
-		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.jpg);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Haibin Kan</div>
-				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
-				<div class="affiliation">Fudan University</div>
-			</div>
-		</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.jpg);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Zhihong Tian</div>
-				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
-				<div class="affiliation">Guangzhou University</div>
-			</div>
-		</div>
-
-
-		
-		<div class="organizer-group-title">Award Chair</div>
-		
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/XiaosongZhang.jpg);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Xiaosong Zhang</div>
-				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
-				<div class="affiliation">Univ. of Electron. Sci. & Tech. of China</div>
-			</div>
-		</div>
-		
-
-		<div class="organizer-group-title">Volunteer</div>
-		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Rui Wang</div>
-			<div class="role bold">Volunteer Chair</div>
-			<div class="affiliation">Tongji University</div>
-		</div>
-	</div>
-    
-
-    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.jpg);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name"> Xiao Wu</div>
-			<div class="affiliation">Ethereum Riyadh Community</div>
-		</div>
-	</div>
 		<div class="spacer"></div>
 
 		<div class="organizer-group-title">TPC Co-Chair</div>
@@ -206,9 +208,12 @@ function Nav() {
 			<div class="info-container">
 				<div class="name">Shuguang(Robert) Cui</div>
 				<div class="role bold">IEEE Fellow</div>
-				<div class="affiliation">The Chinese University of Hong Kong, Shenzhen</div>
+				<div class="affiliation">CUHK-Shenzhen</div>
 			</div>
 		</div>
+ 
+
+	
 
 	<div class="spacer"></div>
 		<div class="organizer-group-title">Publicity Co-Chair</div>
@@ -250,10 +255,51 @@ function Nav() {
 			<div class="info-container">
 				<div class="name">Yi Sun</div>
 				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
-				<div class="affiliation">Institute of Computing Technology</div>
+				<div class="affiliation">Institute of Computing Technology,CAS</div>
 			</div>
 		</div>
 	
+
+		<div class="spacer"></div>
+		<div class="organizer-group-title">Publication Co-Chair</div>
+		
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/HaiJin.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Hai Jin</div>
+				<div class="role bold">IEEE Fellow</div>
+				<div class="affiliation">Huazhong Univ.of Sci. and Tech.</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Haibin Kan</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Fudan University</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhihong Tian</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Guangzhou University</div>
+			</div>
+		</div>
+
+			
+		<div class="organizer-group-title">Award Chair</div>
+		
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/XiaosongZhang.jpg);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Xiaosong Zhang</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Univ. of Electron. Sci. & Tech. of China</div>
+			</div>
+		</div>
+		
 
 		<div class="organizer-group-title">Tutorial Chair</div>
 		
@@ -302,6 +348,25 @@ function Nav() {
 				<div class="affiliation">Shenzhen University</div>
 			</div>
 		</div>
+		
+		<div class="organizer-group-title">Volunteer</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Rui Wang</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Tongji University</div>
+		</div>
+	</div>
+    
+
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.jpg);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name"> Xiao Wu</div>
+			<div class="affiliation">Ethereum Riyadh Community</div>
+		</div>
+	</div>
 		
 		<div class="organizer-group-title">Coordinator & TPC Vice chair for EDAS</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">

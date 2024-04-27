@@ -45,7 +45,7 @@ function Nav() {
 		<div class="info-container">
 			<div class="name">Shuguang Cui</div>
 			<div class="role bold">IEEE Fellow</div>
-			<div class="affiliation">The Chinese University of Hong Kong, Shenzhen</div>
+			<div class="affiliation">CUHK-Shenzhen</div>
 		</div>
 	</div>
 
