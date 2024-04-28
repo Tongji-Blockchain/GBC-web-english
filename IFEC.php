@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Industry Forums & Exhibition Committee'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='Industry Forum Committee'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -7,10 +7,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "370px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "370px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -23,12 +23,21 @@ function Nav() {
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Board</a>
             <a href="Steering.php">Steering Committee</a>
-            <a href="organizers.php">Organizing Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
-            <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
+            <a href="IFEC.php">Industry Forum Committee</a>
+            <a href="publicity_co_chair.php">Publicity Co-Chair</a>
+            <a href="publication_co_chair.php">Publication Co-Chair</a>
+            <a href="award_chair.php">Award Chair</a>
+            <a href="tutorial_chair.php">Tutorial Chair</a>
+            <a href="workshop_co_chair.php">Workshop Co-Chair</a>
+            <a href="volunteer.php"> Volunteer Co-Chair</a>
+
+            <!-- 之前的内容
+            <a href="organizers.php">Organizing Committee</a>
             <a href="operationC.php">Operations Committee</a>
             <a href="TPCmember.php">TPC members</a>
-            <a href="volunteer.php">Volunteer</a>
+            -->
+            
         </div><br/>
 
         

@@ -7,10 +7,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "370px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "370px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -19,25 +19,68 @@ function Nav() {
 
 	<div style="flex: 5;">
 
-	<button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
+    <button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
-				<a href="advisoryC.php">Advisory Board</a>
-			<a href="Steering.php">Steering Committee</a>
-            <a href="organizers.php">Organizing Committee</a>
+            <a href="advisoryC.php">Advisory Board</a>
+            <a href="Steering.php">Steering Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
-            <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
+            <a href="IFEC.php">Industry Forum Committee</a>
+            <a href="publicity_co_chair.php">Publicity Co-Chair</a>
+            <a href="publication_co_chair.php">Publication Co-Chair</a>
+            <a href="award_chair.php">Award Chair</a>
+            <a href="tutorial_chair.php">Tutorial Chair</a>
+            <a href="workshop_co_chair.php">Workshop Co-Chair</a>
+            <a href="volunteer.php"> Volunteer Co-Chair</a>
+
+            <!-- 之前的内容
+            <a href="organizers.php">Organizing Committee</a>
             <a href="operationC.php">Operations Committee</a>
-			<a href="TPCmember.php">TPC members</a>
-            <a href="volunteer.php">Volunteer</a>
+            <a href="TPCmember.php">TPC members</a>
+            -->
+            
+ 
         </div><br/>
+
+
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/wuzhiqiang.png);background-size:100px 100px;"></div>
 			<div class="info-container">
 				<div class="name">Zhiqiang Wu</div>
-				<div class="role bold">Advisorary Board Chair</div>
-				<div class="affiliation"></div>
+				<div class="affiliation">Chair, Tongji University</div>
 			</div>
 		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/zhengzhiming.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhiming Zheng</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
+				<!--<div class="role bold">Honorary Chair</div>-->
+				<div class="affiliation">Beihang University</div>
+			</div>
+		</div>
+
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/jiangchangjun.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Changjun Jiang</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
+				<!--<div class="role bold">Honorary Chair</div>-->
+				<div class="affiliation">Tongji University</div>
+			</div>
+		</div>
+
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/chunchen.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Chun Chen</div>
+				<!--<div class="role bold">Advisory Board Chair</div>-->
+				<!--<div class="role bold">Honorary Chair</div>-->
+				<div class="affiliation">Zhejiang University</div>
+			</div>
+		</div>
+
+
+
 		<!--
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/ChangjunJiang.jpg);background-size:100px 100px;"></div>
