@@ -337,6 +337,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Fengqi Li</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Dalian Jiaotong University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Filip Rezabek</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -400,7 +409,7 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
-        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Guoming Yang</div>
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Guomin Yang</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Singapore Management University</div>
@@ -431,6 +440,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">RMIT University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Hong-Sheng Zhou</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Virginia Commonwealth University</div>
     </td>
 </tr>
 
@@ -517,6 +535,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Jian Liu</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Zhejiang University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Jianan Hong</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -539,6 +566,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Florida State University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Jinjun Chen</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Swinburne University of Technology</div>
     </td>
 </tr>
 
@@ -616,7 +652,25 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Kaiping Xue</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">University of Science and Technology of China</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Kang Chen</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Tsinghua University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Ke Xu</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Tsinghua University</div>
@@ -769,6 +823,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Miaomiao Zhang</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Tongji University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Mohammad Jalalzai</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -791,6 +854,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">University of Central Florida</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Na Ruan</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Shanghai Jiao Tong University</div>
     </td>
 </tr>
 
@@ -841,6 +913,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Qi Li</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Tsinghua University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Qi Xia</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -854,6 +935,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Macau Univ. of Sci. and Tech.</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Qingqi Pei</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Xidian University</div>
     </td>
 </tr>
 
@@ -908,6 +998,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">IIT Kharagpur</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Shen Su</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Guangzhou University</div>
     </td>
 </tr>
 
@@ -1012,6 +1111,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Liangmin Wang</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Southeast University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Wazen Shbair</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -1025,6 +1133,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">University of Houston</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Weigan Wu</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Sun Yat-Sen University</div>
     </td>
 </tr>
 
@@ -1111,6 +1228,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Yang Xu</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Hunan University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Ye Wang</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -1142,6 +1268,15 @@ function Nav() {
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Beihang University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Yong Ding</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Guilin University of Electronic Technology</div>
     </td>
 </tr>
 
@@ -1237,6 +1372,15 @@ function Nav() {
 
 <tr>
     <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Zhenguang Liu</div>
+    </td>
+    <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
+        <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Zhejiang Gongshang University</div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 0.3vw solid #dddddd; border-right-color: transparent; padding: 8px; width: 32%;">
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Zhiguo Wan</div>
     </td>
     <td style="border: 0.3vw solid #dddddd; border-left-color: transparent; padding: 8px;">
@@ -1270,6 +1414,7 @@ function Nav() {
         <div style="font-size: 18px; color: #191970; position: relative; line-height: 1.5;">Peking Univerisity</div>
     </td>
 </tr>
+
 
 
 
