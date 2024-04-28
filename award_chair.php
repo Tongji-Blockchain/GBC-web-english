@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Industry Forum Committee'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='Award Chair'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -38,13 +38,20 @@ function Nav() {
             <a href="TPCmember.php">TPC members</a>
             -->
             
+ 
         </div><br/>
 
         
-	Stay tuned
+        <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/XiaosongZhang.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Xiaosong Zhang</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Univ. of Electron. Sci. & Tech. of China</div>
+			</div>
+		</div>
 
 	</div>
-
 
 
 </div>

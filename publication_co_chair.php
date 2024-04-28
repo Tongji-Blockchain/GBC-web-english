@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Industry Forum Committee'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='Publication Co-Chair'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -38,13 +38,36 @@ function Nav() {
             <a href="TPCmember.php">TPC members</a>
             -->
             
+ 
         </div><br/>
 
+
+        <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/HaiJin.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Hai Jin</div>
+				<div class="role bold">IEEE Fellow</div>
+				<div class="affiliation">Huazhong Univ.of Sci. and Tech.</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/HaibinKan.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Haibin Kan</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Fudan University</div>
+			</div>
+		</div>
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/ZhihongTian.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Zhihong Tian</div>
+				<!-- <div class="role bold">Associate Editor of IEEE IoT Journal</div> -->
+				<div class="affiliation">Guangzhou University</div>
+			</div>
+		</div>
         
-	Stay tuned
-
 	</div>
-
 
 
 </div>

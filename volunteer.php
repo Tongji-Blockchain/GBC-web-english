@@ -6,10 +6,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <script>
 function Nav() {
     var nav = document.getElementById("navContainer");
-    if (nav.style.height === "300px") {  // 调整此值以适应您的导航栏高度
+    if (nav.style.height === "370px") {  // 调整此值以适应您的导航栏高度
         nav.style.height = "0";
     } else {
-        nav.style.height = "300px";  // 调整此值以适应您的导航栏高度
+        nav.style.height = "370px";  // 调整此值以适应您的导航栏高度
     }
 }
 </script>
@@ -18,20 +18,29 @@ function Nav() {
 
     <div style="flex: 5;">
     
-    <button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
+	<button class="small-button" onclick="Nav()">Committees<i class="fa fa-solid fa-caret-down fa-fw"></i></button><br/>
         <div id="navContainer" style="height: 0; overflow: hidden; transition: 0.5s;">
             <a href="advisoryC.php">Advisory Board</a>
             <a href="Steering.php">Steering Committee</a>
-            <a href="organizers.php">Organizing Committee</a>
             <a href="TPC.php">Technical Program Committee</a>
-            <a href="IFEC.php">Industry Forums & Exhibition Committee</a>
+            <a href="IFEC.php">Industry Forum Committee</a>
+            <a href="publicity_co_chair.php">Publicity Co-Chair</a>
+            <a href="publication_co_chair.php">Publication Co-Chair</a>
+            <a href="award_chair.php">Award Chair</a>
+            <a href="tutorial_chair.php">Tutorial Chair</a>
+            <a href="workshop_co_chair.php">Workshop Co-Chair</a>
+            <a href="volunteer.php"> Volunteer Co-Chair</a>
+
+            <!-- 之前的内容
+            <a href="organizers.php">Organizing Committee</a>
             <a href="operationC.php">Operations Committee</a>
-            <a href="TPCmember.php">TPC member</a>
-            <a href="volunteer.php">Volunteers</a>
+            <a href="TPCmember.php">TPC members</a>
+            -->
+            
         </div><br/>
 
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.jpg);background-size:100px 100px;"></div>
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/RuiWang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Rui Wang</div>
 			<!--<div class="role bold">Volunteer Chair</div>-->
@@ -41,12 +50,13 @@ function Nav() {
     
 
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.jpg);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/XiaoWu.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name"> Xiao Wu</div>
 			<div class="affiliation">Ethereum Riyadh Community</div>
 		</div>
 	</div>
+
     </div>
 
 
