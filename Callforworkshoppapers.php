@@ -78,7 +78,9 @@ function Nav() {
         <div style="font-size: 20px; line-height: 1.5; text-align: justify;">
     WS-01: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf';">Proposal-GBC-Workshop-BlockchainPolicy</span>
 </div>
-
+<div style="font-size: 20px; line-height: 1.5; text-align: justify;">
+    WS-02: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/v5-Proposal-Workshop-SemanticComm.pdf';">v5-Proposal-Workshop-SemanticComm</span>
+</div>
 
 	</div>
 </div>
