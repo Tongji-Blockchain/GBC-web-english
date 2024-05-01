@@ -224,6 +224,227 @@ function Nav() {
 		</div>
  
 
+		<div class="organizer-group-title">Track Co-Chair</div>
+
+<div class="organizer-track-title">Track 1: Blockchain Consensus, Performance, and Scalability</div>
+
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/GiancarloFortino.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Giancarlo Fortino</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">University of Calabria</div>
+	</div>
+</div> 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/LiehuangZhu.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Liehuang Zhu</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Beijing Institute of Technology</div>
+	</div>
+</div> 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/SisiDuan.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Sisi Duan</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Tsinghua University</div>
+	</div>
+</div> 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/XiaotieDeng.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Xiaotie Deng</div>
+		<div class="role bold">IEEE/ACM Fellow</div>
+		<div class="affiliation">Peking University</div>
+	</div>
+</div>
+
+
+<div class="spacer"></div>
+
+<div class="organizer-track-title">Track 2: Blockchain for Real-World Applications</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/AshishKundu.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Ashish Kundu</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Cisco Systems </div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/JiangXiao.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Jiang Xiao</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Huazhong University of Science and Technology</div>
+	</div>
+</div> 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/JieLi.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Jie Li</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Shanghai Jiao Tong University</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/KeqiuLi.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Keqiu Li</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Tianjin University</div>
+	</div>
+</div>
+
+
+<div class="spacer"></div>
+<div class="organizer-track-title">Track 3: Security for Blockchain, Blockchain for Security</div>
+
+
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/ElenaFerrari.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Elena Ferrari</div>
+		<div class="role bold">IEEE/ACM Fellow</div>
+		<div class="affiliation">University of Insubria</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/QianWang.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Qian Wang</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Wuhan University</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/ZhiqiangLin.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Zhiqiang Lin</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">The Ohio State University</div>
+	</div>
+</div>
+
+
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/YinqianZhang.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Yinqian Zhang</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Southern University of Science and Technology</div>
+	</div>
+</div>
+
+
+<div class="spacer"></div>
+<div class="organizer-track-title">Track 4: Communications Network Infrastructures & DePIN</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/XiapuLuo.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Daniel Xiapu Luo</div>
+		<div class="role bold"></div>
+		<div class="affiliation">The Hong Kong Polytechnic University</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/MauroConti.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Mauro Conti</div>
+		<div class="role bold">IEEE Fellow, EiC of IEEE TIFS</div>
+		<div class="affiliation">University of Padua</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/SchahramDustdar.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Schahram Dustdar</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Vienna University of Technology</div>
+	</div>
+</div>
+
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/SongGuo.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Song Guo</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Hong Kong University of Science and Technology</div>
+	</div>
+</div>
+
+
+
+<div class="spacer"></div>
+<div class="organizer-track-title">Track 5: Integration of Blockchain, Data Elements & AI</div> 
+
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/BinXiao.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Bin Xiao</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">The Hong Kong Polytechnic University</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/CongWang.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Cong Wang</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">City University of Hong Kong</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/HuaweiHuang.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Huawei Huang</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Sun Yat-sen University</div>
+	</div>
+</div>
+
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/LinWilliamCong.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Lin William Cong</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Cornell University</div>
+		<div class="affiliation">NBER & IC3</div>
+	</div>
+</div>
+
+
+
+
+<div class="spacer"></div>
+<div class="organizer-track-title">Track 6: Blockchain for Web 3.0 & Metaverse Ecosystems</div> 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/KonstantinosStylianou.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Konstantinos Stylianou</div>
+		<div class="role bold"></div>
+		<div class="affiliation">University of the Glasgow</div>
+	</div>
+</div> 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/WeiWang.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Wei Wang</div>
+		<div class="role bold"></div>
+		<div class="affiliation">Beijing Jiaotong University</div>
+	</div>
+</div>
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+	<div class="pic headshot round" style="background:url(images/tracks/XiuzhenCheng.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Xiuzhen Cheng</div>
+		<div class="role bold">IEEE Fellow</div>
+		<div class="affiliation">Shandong University</div>
+	</div>
+</div>
+
 	
 
 	<div class="spacer"></div>
