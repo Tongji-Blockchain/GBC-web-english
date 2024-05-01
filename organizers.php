@@ -96,14 +96,14 @@ function Nav() {
 		<div class="pic headshot round" style="background:url(images/organizers/RameshRamadoss.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Ramesh Ramadoss</div>
-			<div class="affiliation">Chair, IEEE BCTC</div>
+			<div class="affiliation">Chair, IEEE Blockchain Technical Community</div>
 		</div>
 	</div>
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Gora Datta</div>
-			<div class="affiliation">Vice Chair, IEEE BCTC</div>
+			<div class="affiliation">Vice Chair, IEEE Blockchain Technical Community</div>
 		</div>
 	</div>
 
