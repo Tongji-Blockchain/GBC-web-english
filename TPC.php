@@ -42,6 +42,15 @@ function Nav() {
 
 	<div class="organizer-group-title">Technical Program Co-Chair</div>
 
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/chonggangwang.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Chonggang Wang</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">InterDigital, Inc.</div>
+		</div>
+	</div>
+
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -51,14 +60,7 @@ function Nav() {
 		</div>
 	</div>
 	
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/cuishuguang.png);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Shuguang Cui</div>
-			<div class="role bold">IEEE Fellow</div>
-			<div class="affiliation">CUHK-Shenzhen</div>
-		</div>
-	</div>
+	
 
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/organizers/renkui.png);background-size:100px 100px;"></div>
@@ -69,15 +71,7 @@ function Nav() {
 		</div>
 	</div>
 
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/chonggangwang.png);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Chonggang Wang</div>
-			<div class="role bold">IEEE Fellow</div>
-			<div class="affiliation">InterDigital, Inc.</div>
-		</div>
-	</div>
-
+	
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/organizers/leizhang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -86,7 +80,14 @@ function Nav() {
 			<div class="affiliation">The University of Glasgow</div>
 		</div>
 	</div>
-
+    <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/cuishuguang.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Shuguang Cui</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">CUHK-Shenzhen</div>
+		</div>
+	</div>
 	<div class="spacer"></div>
 
 	 <div class="organizer-group-title">Track Co-Chair</div>

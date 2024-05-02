@@ -38,7 +38,29 @@ function Nav() {
             -->
             
         </div><br/>
-
+		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/organizers/RameshRamadoss.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ramesh Ramadoss</div>
+			<div class="affiliation">Chair, IEEE Blockchain Technical Community</div>
+		</div>
+	</div>
+	
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Gora Datta</div>
+			<div class="affiliation">Vice Chair, IEEE Blockchain Technical Community</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+			<div class="pic headshot round" style="background:url(images/organizers/yuanyu.png);background-size:100px 100px;"></div>
+			<div class="info-container">
+				<div class="name">Yu Yuan</div>
+				<!--<div class="role bold">Steering Committee Chair</div>-->
+				<div class="affiliation">IEEE ISTO MASA</div>
+			</div>
+		</div>
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 			<div class="pic headshot round" style="background:url(images/organizers/yizhilin.png);background-size:100px 100px;"></div>
 			<div class="info-container">
@@ -47,15 +69,16 @@ function Nav() {
 				<div class="affiliation">China Mobile</div>
 			</div>
 		</div>
-
-	
 		<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/tracks/GoraDatta.png);background-size:100px 100px;"></div>
+		<div class="pic headshot round" style="background:url(images/organizers/RobertShorten.png);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Gora Datta</div>
-			<div class="affiliation">Vice Chair, IEEE Blockchain Technical Community</div>
+			<div class="name">Robert Shorten</div>
+			<!--<div class="role bold">Volunteer Chair</div>-->
+			<div class="affiliation">Imperial College London</div>
 		</div>
 	</div>
+	
+	
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/organizers/JianmingZhu.png);background-size:100px 100px;"></div>
 		<div class="info-container">
@@ -78,21 +101,7 @@ function Nav() {
 			<div class="affiliation">W3SA-HK & IEEE BDL</div>
 		</div>
 	</div>
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/RameshRamadoss.png);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Ramesh Ramadoss</div>
-			<div class="affiliation">Chair, IEEE Blockchain Technical Community</div>
-		</div>
-	</div>
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-		<div class="pic headshot round" style="background:url(images/organizers/RobertShorten.png);background-size:100px 100px;"></div>
-		<div class="info-container">
-			<div class="name">Robert Shorten</div>
-			<!--<div class="role bold">Volunteer Chair</div>-->
-			<div class="affiliation">Imperial College London</div>
-		</div>
-	</div>
+	
 	
 	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/tracks/XuemingSi.png);background-size:100px 100px;"></div>
@@ -103,14 +112,7 @@ function Nav() {
 		</div>
 	</div>
 		
-	<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
-			<div class="pic headshot round" style="background:url(images/organizers/yuanyu.png);background-size:100px 100px;"></div>
-			<div class="info-container">
-				<div class="name">Yu Yuan</div>
-				<!--<div class="role bold">Steering Committee Chair</div>-->
-				<div class="affiliation">IEEE ISTO MASA</div>
-			</div>
-		</div>
+	
     <div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
 		<div class="pic headshot round" style="background:url(images/organizers/ZhongChen.png);background-size:100px 100px;"></div>
 		<div class="info-container">

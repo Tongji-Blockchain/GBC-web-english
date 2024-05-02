@@ -445,6 +445,14 @@ function Nav() {
 	</div>
 </div>
 
+<div class="flex flex-auto person-container"style="margin-bottom: 20px;margin-top: 20px;">
+		<div class="pic headshot round" style="background:url(images/tracks/YanZheng.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Zheng Yan</div>
+			<div class="role bold">IEEE Fellow</div>
+			<div class="affiliation">Xidian University</div>
+		</div>
+	</div>
 	
 
 	<div class="spacer"></div>
