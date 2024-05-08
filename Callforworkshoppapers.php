@@ -76,10 +76,10 @@ function Nav() {
         <br><br>
         <h1>ACCEPTED WORKSHOPS</h1>
         <div style="font-size: 20px; line-height: 1.5; text-align: justify;">
-    WS-01: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf';">Proposal-GBC-Workshop-BlockchainPolicy</span>
+    WS-01: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/Proposal-GBC-Workshop-BlockchainPolicy.pdf';">1st Workshop on Exploring the Intersection of Blockchain and Policy: Shaping the Future of Decentralization</span>
 </div>
 <div style="font-size: 20px; line-height: 1.5; text-align: justify;">
-    WS-02: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/v5-Proposal-Workshop-SemanticComm.pdf';">v5-Proposal-Workshop-SemanticComm</span>
+    WS-02: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/v5-Proposal-Workshop-SemanticComm.pdf';">1st Workshop on AI-empowered Semantic-based Communications for Distributed Networks: Towards a Multi-Agent Metaverse with Blockchain Integration</span>
 </div>
 
 	</div>

@@ -116,4 +116,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 <br><br>
 <div style="font-weight: bold;font-size: 24;color: #191970;">Sponsors</div>
+<br><br>
+<div class="header-title bold flux-auto" ><img src="images/logo/IEEE-Blockchain.png" >
+</img><div style="vertical-align: middle;display: inline-block;"></div></div>
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>
