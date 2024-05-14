@@ -81,7 +81,9 @@ function Nav() {
 <div style="font-size: 20px; line-height: 1.5; text-align: justify;">
     WS-02: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='resources/v5-Proposal-Workshop-SemanticComm.pdf';">1st Workshop on AI-empowered Semantic-based Communications for Distributed Networks: Towards a Multi-Agent Metaverse with Blockchain Integration</span>
 </div>
-
+        <div style="font-size: 20px; line-height: 1.5; text-align: justify;">
+    WS-03: <span style="color: #4512d2; cursor: pointer;" onclick="location.href='';">2nd Workshop on Next-gen Decentralized Physical Infrastructure (DePIN) for Blockchain and Web 3.0 Networks: Challenges and Opportunities  </span>
+</div>
 	</div>
 </div>
 
