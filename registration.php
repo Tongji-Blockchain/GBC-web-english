@@ -146,7 +146,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	</table>
 	</div>
 </div> -->
-Stay tuned
+	
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfz5y7ZysTROhX7hFD-JpYjzAUdfWG7lAaY2IiX3PYt97xsPQ/viewform?embedded=true" 
+	width="640" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+	
 </div>
 
 
