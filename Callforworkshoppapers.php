@@ -68,7 +68,7 @@ function Nav() {
         <br><br>
         <h1>IMPORTANT DATES</h1>
         <div style="font-size: 20px;line-height: 1.5;text-align:justify;">Workshop paper submission: <span style="color: gray;"><del>1 Feb, 2024</del></span> <span style="color: #4512d2;">7 July, 2024</span></div>
-        <div style="font-size: 20px;line-height: 1.5;text-align:justify;">Notification of acceptance: <span style="color: gray;"><del>1 June, 2024</del></span> <span style="color: #4512d2;">1 August, 2024</span></div>
+        <div style="font-size: 20px;line-height: 1.5;text-align:justify;">Notification of acceptance: <span style="color: gray;"><del>10 June, 2024</del></span> <span style="color: #4512d2;">1 August, 2024</span></div>
         <div style="font-size: 20px; line-height: 1.5; text-align: justify;">  Camera-ready submission: <span style="color: #4512d2;">7 August, 2024</span></div>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  Presentation submission: <span style="color: #4512d2;">14 August, 2024</span></div>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">  All papers must be submitted through EDAS (submission starts 20 April).</div>
