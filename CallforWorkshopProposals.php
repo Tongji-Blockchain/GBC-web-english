@@ -53,7 +53,7 @@ function Nav() {
 
         <br><br>
         <h1>Submission Deadlines</h1>
-        <div style=" font-size: 20px;line-height: 1.5; text-align:justify;">Workshop Proposal: <span style="color: #4512d2;">20 Apr, 2024</span></div>
+        <div style=" font-size: 20px;line-height: 1.5; text-align:justify;">Workshop Proposal: <span style="color: #4512d2;">Late proposals welcome</span></div>
         <div style=" font-size: 20px;line-height: 1.5;text-align:justify;">Notification of acceptance: <span style="color: #4512d2;">1 June, 2024</span></div>
         <br><br>
         <div style=" font-size: 24px;line-height: 1.5; text-align:justify;color: #191970;font-weight: bold;">To propose a Workshop for lEEE GBC 2024, adhere to the following guidelines:</div>

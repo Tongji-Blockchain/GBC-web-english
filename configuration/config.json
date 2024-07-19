@@ -8,7 +8,7 @@
 	"header":{
 		"title" : "GBC 2024",
 		"subtitle" : "IEEE Global Blockchain Conference",
-		"dateTitle" : "21-23 August, 2024",
+		"dateTitle" : "Oct/Nov, 2024",
 		"locationPlaceName": "TBA",
 		"locationAreaName": "ShangHai, China",
 		"slogon":"Transforming a Trustworthy Digital Future",
@@ -59,6 +59,11 @@
 			"date": "Late proposals welcome",
 			"showInNavBar": true
 		},
+		{
+			"title":"Call for Workshop Papers Due",
+			"date": "31 Aug, 2024",
+			"showInNavBar": true
+		},
 		
 		{
 			"title":"Contributed and Invited Papers Due",
@@ -72,12 +77,19 @@
 		},
 		{
 			"title":"Camera Ready Due",
-			"date": "25 July, 2024",
+			"olddate": "25 July, 2024(Extended)<br>",
+			"date": "1 Aug, 2024",
 			"showInNavBar": true
 		},
 		{
 			"title":"IEEE Global Blockchain Conference Dates",
-			"date": "21-23 August, 2024",
+			"olddate": "21-23 Aug, 2024(Extended)<br>",
+			"date": "Postponed to Oct/Nov",
+			"showInNavBar": true
+		},
+		{
+			"title":"Registration Open",
+			"date": " Aug, 2024",
 			"showInNavBar": true
 		}
 	],
@@ -190,7 +202,7 @@
 	},
 	"newsTicker":[
 		{
-			"content":"Submissions now open",
+			"content":"Camera-ready due soon",
 			"link":"https://edas.info/newPaper.php?c=32098",
 			"openInNewWindow": true
 		}
