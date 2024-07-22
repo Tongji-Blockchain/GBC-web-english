@@ -47,7 +47,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <div style="margin-bottom: 1%;">
 
 <h1>About IEEE GBC</h1>
-IEEE GBC is the IEEE Blockchain Community’s flagship conferences. The 2024 IEEE Global Blockchain Conference will be held in Shanghai, China, from 21 August - 23 August 2024. Themed “Transforming a Trustworthy Digital Future”, the conference will feature a comprehensive high-quality technical program including 6 tracks and a variety of tutorials and workshops. IEEE GBC 2024 will also include an attractive industry program aimed at enthusiast, with keynotes and panels from prominent research, industry and government leaders, business and industry panels, and technological exhibits. GBC 2024 is planned to be a fully in-person meeting/event.<br/><br/>
+IEEE GBC is the IEEE Blockchain Community’s flagship conferences. The 2024 IEEE Global Blockchain Conference will be held in Shanghai, China, from 14 November - 16 November 2024. Themed “Transforming a Trustworthy Digital Future”, the conference will feature a comprehensive high-quality technical program including 6 tracks and a variety of tutorials and workshops. IEEE GBC 2024 will also include an attractive industry program aimed at enthusiast, with keynotes and panels from prominent research, industry and government leaders, business and industry panels, and technological exhibits. GBC 2024 is planned to be a fully in-person meeting/event.<br/><br/>
 <br/>
 
 
