@@ -4,16 +4,28 @@ $stylesheet='css/authors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
+<style>
+  @keyframes blinker {
+	50% { opacity: 0 }
+  }
+
+  .blink {
+	animation:blinker 3s linear infinite;
+	color: white; /* 改变文字颜色以增加可见性 */
+	font-size: larger; /* 保持原有的字体大小 */
+	cursor: pointer; /* 鼠标悬停时显示手形图标 */
+  }
+</style>
+
 <script>
 function Nav() {
-    var nav = document.getElementById("navContainer");
-    if (nav.style.height === "300px") {
-        nav.style.height = "0";
-    } else {
-        nav.style.height = "300px";
-    }
+	var nav = document.getElementById("navContainer");
+	if (nav.style.height === "300px") {
+		nav.style.height = "0";
+	} else {
+		nav.style.height = "300px";
+	}
 }
-
 </script>
 
 <div style="display: flex; justify-content: space-between; margin-top: 0%; margin-bottom: 5%;">
@@ -48,7 +60,12 @@ function Nav() {
 
 <div class="flex flex-auto" style="padding-top: 1%">
 	<div style="margin-bottom: 1%;">
-	<button style="font-size: larger" onclick="location.href='resources/CFP-Poster-EN.pdf';">Download Call for Papers</button><button style="font-size: larger" onclick="location.href='https://edas.info/newPaper.php?c=32098';">Submit Your Paper Now</button><br><br>
+	<button style="font-size: larger" onclick="location.href='resources/CFP-Poster-EN.pdf';">Download Call for Papers
+
+	</button><button style="font-size: larger" onclick="location.href='https://edas.info/newPaper.php?c=32098';">Submit Your Paper Now</button>
+	<br><br>
+	
+<button class="blink" onclick="location.href='resources/Final Manuscript Uploading Guide.pdf';">Final Manuscript Uploading Guide</button><br><br>
 		<br>
 		<div style=" font-size: 20px;line-height: 1.5; margin-bottom: 20px;">The 2024 IEEE Global Blockchain Conference (GBC) will feature a comprehensive technical program covering the latest research and innovation in blockchain technologies.</div>
 		
