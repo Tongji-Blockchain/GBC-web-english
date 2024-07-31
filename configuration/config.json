@@ -8,7 +8,7 @@
 	"header":{
 		"title" : "GBC 2024",
 		"subtitle" : "IEEE Global Blockchain Conference",
-		"dateTitle" : "14-16 Nov, 2024",
+		"dateTitle" : " Oct/Nov, 2024 ",
 		"locationPlaceName": "TBA",
 		"locationAreaName": "ShangHai, China",
 		"slogon":"Transforming a Trustworthy Digital Future",
@@ -83,8 +83,8 @@
 		},
 		{
 			"title":"IEEE Global Blockchain Conference Dates",
-			"olddate": "21-23 Aug, 2024(Extended)<br>",
-			"date": "14-16 Nov, 2024",
+			"olddate": "21-23 Aug, 2024(Extended)<br>14-16 Nov, 2024 ",
+			"date": "Oct/Nov, 2024",
 			"showInNavBar": true
 		},
 		{
